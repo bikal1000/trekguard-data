@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "annapurna-circuit",
+    "name": "Annapurna Circuit",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-circuit",
+    "difficulty": "Strenuous",
+    "maxAltitude": 5416,
+    "totalDistance": 160,
+    "totalElevationGain": 8500,
+    "totalElevationLoss": 8650,
+    "durationDays": 14,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "May not be required for Annapurna region since April 2023 — verify before travel"
+      }
+    ],
+    "startPoint": "Besisahar",
+    "endPoint": "Jomsom",
+    "description": "The classic Himalayan circuit around the entire Annapurna massif, crossing the legendary Thorong La Pass at 5,416m. One of the world's great long-distance treks.",
+    "highlights": [
+      "Thorong La Pass (5,416m)",
+      "Muktinath Temple",
+      "Manang Valley",
+      "Kali Gandaki — deepest gorge in the world"
+    ],
+    "icon": "map-marker-path",
+    "days": [
+      {
+        "day": 1,
+        "from": "Besisahar",
+        "to": "Jagat",
+        "fromAltitude": 760,
+        "toAltitude": 1300,
+        "walkingHours": 6,
+        "distance": 18,
+        "isRestDay": false,
+        "description": "Begin the trek along the Marsyangdi River valley. Pass through small villages and cross suspension bridges through terraced farmland."
+      },
+      {
+        "day": 2,
+        "from": "Jagat",
+        "to": "Dharapani",
+        "fromAltitude": 1300,
+        "toAltitude": 1860,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Follow the rocky trail along the Marsyangdi River. Pass through Tal — the first village in Manang District — where the scenery dramatically changes.",
+        "highlights": [
+          "Tal village",
+          "Marsyangdi River gorge"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Dharapani",
+        "to": "Chame",
+        "fromAltitude": 1860,
+        "toAltitude": 2670,
+        "walkingHours": 6,
+        "distance": 15,
+        "isRestDay": false,
+        "description": "Ascend through pine and fir forests with views of Annapurna II (7,937m) emerging. Chame is the administrative center of Manang District.",
+        "highlights": [
+          "Annapurna II views",
+          "Hot springs near Chame"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Chame",
+        "to": "Upper Pisang",
+        "fromAltitude": 2670,
+        "toAltitude": 3300,
+        "walkingHours": 5,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Trek through deep forest and past a massive rock face. A dramatic curved wall of rock marks the entrance to the Manang Valley.",
+        "highlights": [
+          "Paungda Danda rock face",
+          "Pisang village"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Upper Pisang",
+        "to": "Manang",
+        "fromAltitude": 3300,
+        "toAltitude": 3540,
+        "walkingHours": 6,
+        "distance": 16,
+        "isRestDay": false,
+        "description": "Take the upper trail through Ghyaru and Ngawal for superior views. Manang is the largest town in the region with bakeries, shops, and the HRA clinic.",
+        "highlights": [
+          "Ghyaru viewpoint",
+          "Ngawal monastery",
+          "Manang town"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Manang",
+        "to": "Manang",
+        "fromAltitude": 3540,
+        "toAltitude": 3540,
+        "walkingHours": 4,
+        "distance": 6,
+        "isRestDay": true,
+        "description": "Essential acclimatization day. Hike to Ice Lake (4,600m) or Gangapurna Lake. Attend the HRA daily altitude sickness briefing.",
+        "highlights": [
+          "Ice Lake (4,600m)",
+          "HRA altitude briefing",
+          "Gangapurna Lake"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Manang",
+        "to": "Yak Kharka",
+        "fromAltitude": 3540,
+        "toAltitude": 4110,
+        "walkingHours": 4,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Leave the Manang valley behind and climb across open meadows and yak pastures. The landscape becomes increasingly arid and barren."
+      },
+      {
+        "day": 8,
+        "from": "Yak Kharka",
+        "to": "Thorong Phedi",
+        "fromAltitude": 4110,
+        "toAltitude": 4450,
+        "walkingHours": 3,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Short trek to the base camp for Thorong La. Rest and prepare for the early morning pass crossing tomorrow. Some trekkers push to High Camp (4,925m).",
+        "highlights": [
+          "Thorong Phedi base camp"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Thorong Phedi",
+        "to": "Muktinath",
+        "fromAltitude": 4450,
+        "toAltitude": 3760,
+        "walkingHours": 8,
+        "distance": 15,
+        "isRestDay": false,
+        "description": "The biggest day. Start before dawn to cross Thorong La Pass (5,416m). The climb is steep but the views are extraordinary. Long, knee-punishing descent to Muktinath.",
+        "highlights": [
+          "Thorong La Pass (5,416m)",
+          "Muktinath Temple"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Muktinath",
+        "to": "Marpha",
+        "fromAltitude": 3760,
+        "toAltitude": 2670,
+        "walkingHours": 6,
+        "distance": 20,
+        "isRestDay": false,
+        "description": "Descend through Kagbeni and along the Kali Gandaki riverbed — the deepest gorge on Earth between Dhaulagiri and Annapurna. Marpha is famous for apple brandy.",
+        "highlights": [
+          "Kagbeni village",
+          "Kali Gandaki gorge",
+          "Marpha apple orchards"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Marpha",
+        "to": "Tatopani",
+        "fromAltitude": 2670,
+        "toAltitude": 1190,
+        "walkingHours": 7,
+        "distance": 22,
+        "isRestDay": false,
+        "description": "Long descent through Jomsom and down the Kali Gandaki valley. The temperature rises as you drop. Hot springs await at Tatopani.",
+        "highlights": [
+          "Jomsom",
+          "Tatopani hot springs"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Tatopani",
+        "to": "Ghorepani",
+        "fromAltitude": 1190,
+        "toAltitude": 2860,
+        "walkingHours": 7,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Steep climb through terraced fields and rhododendron forests to Ghorepani. This is the hardest ascent of the return journey."
+      },
+      {
+        "day": 13,
+        "from": "Ghorepani",
+        "to": "Nayapul",
+        "fromAltitude": 2860,
+        "toAltitude": 1070,
+        "walkingHours": 7,
+        "distance": 18,
+        "isRestDay": false,
+        "description": "Optional pre-dawn hike to Poon Hill (3,210m) for sunrise over Dhaulagiri and Annapurna ranges. Then descend via Ulleri to Nayapul. Drive to Pokhara.",
+        "highlights": [
+          "Poon Hill sunrise (3,210m)"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Pokhara",
+        "to": "Kathmandu",
+        "fromAltitude": 820,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive or fly from Pokhara back to Kathmandu."
+      }
+    ],
+    "colorToken": "altitudeHigh"
+  },
+  {
+    "id": "manaslu-circuit",
+    "name": "Manaslu Circuit",
+    "region": "Manaslu",
+    "mapRegionId": "manaslu-circuit",
+    "difficulty": "Strenuous",
+    "maxAltitude": 5106,
+    "totalDistance": 160,
+    "totalElevationGain": 8200,
+    "totalElevationLoss": 8050,
+    "durationDays": 14,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Manaslu Conservation Area Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true,
+        "note": "Free/nominal for Nepali citizens"
+      },
+      {
+        "name": "Manaslu Restricted Area Permit",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Requires minimum 2 trekkers with licensed guide"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Soti Khola",
+    "endPoint": "Dharapani",
+    "description": "A remote and spectacular circuit around Manaslu (8,163m) — the world's 8th highest peak. Crosses the challenging Larkya La Pass at 5,106m. Requires a guided group and restricted area permits.",
+    "highlights": [
+      "Larkya La Pass (5,106m)",
+      "Remote Tibetan-influenced villages",
+      "Manaslu Base Camp side trip",
+      "Birendra Lake"
+    ],
+    "icon": "compass-rose",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kathmandu",
+        "to": "Soti Khola",
+        "fromAltitude": 1338,
+        "toAltitude": 730,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Long drive (8–9 hours) from Kathmandu to Soti Khola. The road passes through terraced hillsides and river valleys."
+      },
+      {
+        "day": 2,
+        "from": "Soti Khola",
+        "to": "Machha Khola",
+        "fromAltitude": 730,
+        "toAltitude": 930,
+        "walkingHours": 6,
+        "distance": 15,
+        "isRestDay": false,
+        "description": "Trek along the Budhi Gandaki River through subtropical forest. Cross suspension bridges and pass through small villages."
+      },
+      {
+        "day": 3,
+        "from": "Machha Khola",
+        "to": "Jagat",
+        "fromAltitude": 930,
+        "toAltitude": 1410,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Continue along the Budhi Gandaki with increasing altitude. The trail involves several ups and downs through gorges and waterfalls."
+      },
+      {
+        "day": 4,
+        "from": "Jagat",
+        "to": "Deng",
+        "fromAltitude": 1410,
+        "toAltitude": 1860,
+        "walkingHours": 6,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Enter the Manaslu Conservation Area. The valley narrows and the trail becomes more rugged. Tibetan influence becomes noticeable."
+      },
+      {
+        "day": 5,
+        "from": "Deng",
+        "to": "Namrung",
+        "fromAltitude": 1860,
+        "toAltitude": 2660,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Ascend through the Budhi Gandaki valley with mountain peaks appearing. Pass through traditional villages with mani walls and prayer flags."
+      },
+      {
+        "day": 6,
+        "from": "Namrung",
+        "to": "Samagaon",
+        "fromAltitude": 2660,
+        "toAltitude": 3530,
+        "walkingHours": 7,
+        "distance": 16,
+        "isRestDay": false,
+        "description": "Trek through Lho village with its beautiful monastery and first clear view of Manaslu. Continue to Samagaon, the largest village on the circuit.",
+        "highlights": [
+          "Lho monastery",
+          "First view of Manaslu",
+          "Samagaon village"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Samagaon",
+        "to": "Samagaon",
+        "fromAltitude": 3530,
+        "toAltitude": 3530,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": true,
+        "description": "Acclimatization day. Optional hike to Manaslu Base Camp (4,800m) or Birendra Lake for spectacular views of Manaslu's south face.",
+        "highlights": [
+          "Manaslu Base Camp (4,800m)",
+          "Birendra Lake",
+          "Manaslu south face"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Samagaon",
+        "to": "Samdo",
+        "fromAltitude": 3530,
+        "toAltitude": 3860,
+        "walkingHours": 4,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Shorter trek to aid acclimatization. Samdo is a trading village near the Tibetan border with strong Tibetan cultural influence.",
+        "highlights": [
+          "Near Tibet border",
+          "Tibetan-influenced village"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Samdo",
+        "to": "Samdo",
+        "fromAltitude": 3860,
+        "toAltitude": 3860,
+        "walkingHours": 4,
+        "distance": 6,
+        "isRestDay": true,
+        "description": "Second acclimatization day. Optional hike towards Lajyung Pass (5,120m) near the Tibet border for views of Himlung Himal."
+      },
+      {
+        "day": 10,
+        "from": "Samdo",
+        "to": "Dharamsala",
+        "fromAltitude": 3860,
+        "toAltitude": 4460,
+        "walkingHours": 4,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Trek to the last settlement before the pass. Dharamsala (Larkya Phedi) has basic stone shelters. Rest and prepare for the early-morning pass crossing.",
+        "highlights": [
+          "Larkya Phedi (Dharamsala)"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Dharamsala",
+        "to": "Bimthang",
+        "fromAltitude": 4460,
+        "toAltitude": 3720,
+        "walkingHours": 9,
+        "distance": 18,
+        "isRestDay": false,
+        "description": "The biggest day. Start before dawn to cross Larkya La Pass (5,106m). Panoramic views of Manaslu, Himlung Himal, Cheo Himal, and Annapurna II. Long steep descent to Bimthang.",
+        "highlights": [
+          "Larkya La Pass (5,106m)",
+          "Panoramic Himalayan views"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Bimthang",
+        "to": "Dharapani",
+        "fromAltitude": 3720,
+        "toAltitude": 1860,
+        "walkingHours": 7,
+        "distance": 22,
+        "isRestDay": false,
+        "description": "Long descent through forests and villages to Dharapani, where the trail joins the Annapurna Circuit. Big elevation loss."
+      },
+      {
+        "day": 13,
+        "from": "Dharapani",
+        "to": "Besisahar",
+        "fromAltitude": 1860,
+        "toAltitude": 760,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive from Dharapani to Besisahar along the Marsyangdi River valley."
+      },
+      {
+        "day": 14,
+        "from": "Besisahar",
+        "to": "Kathmandu",
+        "fromAltitude": 760,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive back to Kathmandu (6–7 hours)."
+      }
+    ],
+    "colorToken": "purple"
+  },
+  {
+    "id": "everest-three-passes",
+    "name": "Everest Three Passes",
+    "region": "Everest",
+    "mapRegionId": "everest-base-camp",
+    "difficulty": "Strenuous",
+    "maxAltitude": 5545,
+    "totalDistance": 170,
+    "totalElevationGain": 9800,
+    "totalElevationLoss": 9800,
+    "durationDays": 19,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Sagarmatha National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "Khumbu Pasang Lhamu Rural Municipality Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Lukla",
+    "endPoint": "Lukla",
+    "description": "The ultimate Everest region challenge — cross three high passes (Kongma La, Cho La, Renjo La) and visit EBC, Kala Patthar, Gokyo Ri, and the Gokyo Lakes in one epic trek.",
+    "highlights": [
+      "Kongma La (5,535m)",
+      "Cho La (5,420m)",
+      "Renjo La (5,360m)",
+      "Everest Base Camp + Gokyo Lakes"
+    ],
+    "icon": "trophy-variant",
+    "days": [
+      {
+        "day": 1,
+        "from": "Lukla",
+        "to": "Phakding",
+        "fromAltitude": 2860,
+        "toAltitude": 2610,
+        "walkingHours": 3,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Fly to Lukla and gentle descent along the Dudh Koshi River.",
+        "highlights": [
+          "Lukla airport",
+          "Dudh Koshi valley"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Phakding",
+        "to": "Namche Bazaar",
+        "fromAltitude": 2610,
+        "toAltitude": 3440,
+        "walkingHours": 6,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Cross suspension bridges and climb to Namche Bazaar.",
+        "highlights": [
+          "Hillary Bridge",
+          "First Everest view"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Namche Bazaar",
+        "to": "Namche Bazaar",
+        "fromAltitude": 3440,
+        "toAltitude": 3440,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": true,
+        "description": "Acclimatization day. Hike to Everest View Hotel.",
+        "highlights": [
+          "Everest View Hotel",
+          "Acclimatization"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Namche Bazaar",
+        "to": "Tengboche",
+        "fromAltitude": 3440,
+        "toAltitude": 3860,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek to Tengboche Monastery.",
+        "highlights": [
+          "Tengboche Monastery",
+          "Ama Dablam views"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Tengboche",
+        "to": "Dingboche",
+        "fromAltitude": 3860,
+        "toAltitude": 4410,
+        "walkingHours": 5,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Trek to Dingboche through the Imja Valley.",
+        "highlights": [
+          "Imja Valley",
+          "Island Peak views"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Dingboche",
+        "to": "Chhukung",
+        "fromAltitude": 4410,
+        "toAltitude": 4730,
+        "walkingHours": 3,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Short trek to Chhukung beneath Lhotse wall.",
+        "highlights": [
+          "Lhotse wall",
+          "Chhukung valley"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Chhukung",
+        "to": "Lobuche",
+        "fromAltitude": 4730,
+        "toAltitude": 4940,
+        "walkingHours": 8,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Cross Kongma La Pass (5,535m) — the first and highest pass. Steep scramble with ropes.",
+        "highlights": [
+          "Kongma La (5,535m)",
+          "First pass crossed"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Lobuche",
+        "to": "Gorak Shep",
+        "fromAltitude": 4940,
+        "toAltitude": 5180,
+        "walkingHours": 3,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Trek to Gorak Shep. Afternoon hike to Everest Base Camp.",
+        "highlights": [
+          "Everest Base Camp (5,364m)",
+          "Khumbu Icefall"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Gorak Shep",
+        "to": "Dzongla",
+        "fromAltitude": 5180,
+        "toAltitude": 4830,
+        "walkingHours": 6,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Early morning climb to Kala Patthar (5,545m) for Everest sunrise. Descend via Lobuche to Dzongla.",
+        "highlights": [
+          "Kala Patthar (5,545m)",
+          "Everest sunrise"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Dzongla",
+        "to": "Thagnag",
+        "fromAltitude": 4830,
+        "toAltitude": 4700,
+        "walkingHours": 7,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Cross Cho La Pass (5,420m) — glacier traverse with fixed ropes. Descend to Thagnag.",
+        "highlights": [
+          "Cho La Pass (5,420m)",
+          "Glacier crossing"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Thagnag",
+        "to": "Gokyo",
+        "fromAltitude": 4700,
+        "toAltitude": 4790,
+        "walkingHours": 3,
+        "distance": 5,
+        "isRestDay": false,
+        "description": "Short trek to Gokyo village on the shore of turquoise Gokyo Lake.",
+        "highlights": [
+          "Gokyo Lakes",
+          "Turquoise water"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Gokyo",
+        "to": "Gokyo",
+        "fromAltitude": 4790,
+        "toAltitude": 4790,
+        "walkingHours": 5,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Climb Gokyo Ri (5,357m) for views of four 8,000m peaks. Explore the lake system.",
+        "highlights": [
+          "Gokyo Ri (5,357m)",
+          "Four 8,000m peaks visible"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Gokyo",
+        "to": "Lungden",
+        "fromAltitude": 4790,
+        "toAltitude": 4380,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Cross Renjo La Pass (5,360m) — the third and final pass. Descend to Lungden.",
+        "highlights": [
+          "Renjo La (5,360m)",
+          "Third pass conquered"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Lungden",
+        "to": "Thame",
+        "fromAltitude": 4380,
+        "toAltitude": 3820,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Descend through valleys to the Sherpa village of Thame.",
+        "highlights": [
+          "Thame village",
+          "Sherpa gompa"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Thame",
+        "to": "Namche Bazaar",
+        "fromAltitude": 3820,
+        "toAltitude": 3440,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Easy walk back to Namche Bazaar.",
+        "highlights": [
+          "Return to Namche",
+          "Market day"
+        ]
+      },
+      {
+        "day": 16,
+        "from": "Namche Bazaar",
+        "to": "Lukla",
+        "fromAltitude": 3440,
+        "toAltitude": 2860,
+        "walkingHours": 7,
+        "distance": 19,
+        "isRestDay": false,
+        "description": "Long final descent back to Lukla.",
+        "highlights": [
+          "River valley",
+          "Return to Lukla"
+        ]
+      },
+      {
+        "day": 17,
+        "from": "Lukla",
+        "to": "Lukla",
+        "fromAltitude": 2860,
+        "toAltitude": 2860,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": true,
+        "description": "Buffer day for weather delays. Fly to Kathmandu.",
+        "highlights": [
+          "Flight to Kathmandu"
+        ]
+      }
+    ],
+    "colorToken": "altitudeExtreme"
+  },
+  {
+    "id": "dhaulagiri-circuit",
+    "name": "Dhaulagiri Circuit",
+    "region": "Dhaulagiri",
+    "mapRegionId": "annapurna-circuit",
+    "difficulty": "Strenuous",
+    "maxAltitude": 5360,
+    "totalDistance": 120,
+    "totalElevationGain": 8500,
+    "totalElevationLoss": 8500,
+    "durationDays": 16,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Dhaulagiri Conservation Area Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Beni",
+    "endPoint": "Marpha",
+    "description": "One of the most challenging treks in Nepal, circling the worlds seventh-highest peak. Cross glaciers, remote passes, and uninhabited valleys in true wilderness.",
+    "highlights": [
+      "French Pass (5,360m)",
+      "Dhampus Pass (5,260m)",
+      "Dhaulagiri Base Camp (4,750m)",
+      "Hidden Valley"
+    ],
+    "icon": "flag-checkered",
+    "days": [
+      {
+        "day": 1,
+        "from": "Beni",
+        "to": "Babiachaur",
+        "fromAltitude": 830,
+        "toAltitude": 1100,
+        "walkingHours": 5,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Drive to Beni and trek along the Myagdi Khola valley.",
+        "highlights": [
+          "Myagdi Khola valley",
+          "Magar villages"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Babiachaur",
+        "to": "Muri",
+        "fromAltitude": 1100,
+        "toAltitude": 1850,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek through rice paddies and forests to Muri.",
+        "highlights": [
+          "Terraced farmlands",
+          "Dhaulagiri views"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Muri",
+        "to": "Boghara",
+        "fromAltitude": 1850,
+        "toAltitude": 2080,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Continue ascending through Magar settlements.",
+        "highlights": [
+          "Magar culture",
+          "Mountain views"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Boghara",
+        "to": "Dobang",
+        "fromAltitude": 2080,
+        "toAltitude": 2500,
+        "walkingHours": 6,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek through forests to the last village of Dobang.",
+        "highlights": [
+          "Last village",
+          "Dense forests"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Dobang",
+        "to": "Sallaghari",
+        "fromAltitude": 2500,
+        "toAltitude": 3500,
+        "walkingHours": 7,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Enter the wilderness. Trek through bamboo and rhododendron forests.",
+        "highlights": [
+          "Wilderness entry",
+          "Rhododendron forests"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Sallaghari",
+        "to": "Italian Base Camp",
+        "fromAltitude": 3500,
+        "toAltitude": 3660,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Trek to the historic Italian Base Camp.",
+        "highlights": [
+          "Italian Base Camp",
+          "Alpine meadows"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Italian Base Camp",
+        "to": "Dhaulagiri Base Camp",
+        "fromAltitude": 3660,
+        "toAltitude": 4750,
+        "walkingHours": 6,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Ascend to Dhaulagiri Base Camp across moraines and glacial terrain.",
+        "highlights": [
+          "Dhaulagiri Base Camp",
+          "Glacier views"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Dhaulagiri Base Camp",
+        "to": "Dhaulagiri Base Camp",
+        "fromAltitude": 4750,
+        "toAltitude": 4750,
+        "walkingHours": 3,
+        "distance": 4,
+        "isRestDay": true,
+        "description": "Acclimatization and exploration of the base camp area.",
+        "highlights": [
+          "Acclimatization",
+          "Glacier exploration"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Dhaulagiri Base Camp",
+        "to": "Hidden Valley",
+        "fromAltitude": 4750,
+        "toAltitude": 5100,
+        "walkingHours": 8,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Cross French Pass (5,360m) through ice and rock to the Hidden Valley.",
+        "highlights": [
+          "French Pass (5,360m)",
+          "Hidden Valley"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Hidden Valley",
+        "to": "Yak Kharka",
+        "fromAltitude": 5100,
+        "toAltitude": 3680,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Cross Dhampus Pass (5,260m) and descend steeply to Yak Kharka.",
+        "highlights": [
+          "Dhampus Pass (5,260m)",
+          "Steep descent"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Yak Kharka",
+        "to": "Marpha",
+        "fromAltitude": 3680,
+        "toAltitude": 2670,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Descend to Marpha in the Kali Gandaki valley. Trek complete.",
+        "highlights": [
+          "Marpha village",
+          "Apple orchards",
+          "Trek completion"
+        ]
+      }
+    ],
+    "colorToken": "altitudeExtreme"
+  },
+  {
+    "id": "upper-dolpo",
+    "name": "Upper Dolpo",
+    "region": "Dolpo",
+    "mapRegionId": "shey-phoksundo",
+    "difficulty": "Strenuous",
+    "maxAltitude": 5190,
+    "totalDistance": 180,
+    "totalElevationGain": 9000,
+    "totalElevationLoss": 9000,
+    "durationDays": 20,
+    "bestSeasons": [
+      "May–Oct"
+    ],
+    "permits": [
+      {
+        "name": "Upper Dolpo Restricted Area Permit",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": " for 10 days, /day after"
+      },
+      {
+        "name": "Shey Phoksundo National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Juphal",
+    "endPoint": "Juphal",
+    "description": "One of Nepals most remote treks through the trans-Himalayan desert of Upper Dolpo. Visit Shey Gompa, Crystal Mountain, and cross high passes in a region unchanged for centuries.",
+    "highlights": [
+      "Shey Phoksundo Lake",
+      "Shey Gompa & Crystal Mountain",
+      "Kang La Pass (5,190m)",
+      "Ancient Bon culture"
+    ],
+    "icon": "compass-rose",
+    "days": [
+      {
+        "day": 1,
+        "from": "Juphal",
+        "to": "Sulighat",
+        "fromAltitude": 2475,
+        "toAltitude": 2120,
+        "walkingHours": 4,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Fly to Juphal and descend to the Bheri River at Sulighat.",
+        "highlights": [
+          "Juphal airstrip",
+          "Bheri River"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Sulighat",
+        "to": "Chhepka",
+        "fromAltitude": 2120,
+        "toAltitude": 2700,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek along the Suli Gad gorge through forests.",
+        "highlights": [
+          "Suli Gad gorge",
+          "Forest trails"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Chhepka",
+        "to": "Ringmo",
+        "fromAltitude": 2700,
+        "toAltitude": 3640,
+        "walkingHours": 6,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Climb steeply to Ringmo village overlooking Phoksundo Lake.",
+        "highlights": [
+          "First view of Phoksundo Lake",
+          "Ringmo village"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Ringmo",
+        "to": "Ringmo",
+        "fromAltitude": 3640,
+        "toAltitude": 3640,
+        "walkingHours": 4,
+        "distance": 5,
+        "isRestDay": true,
+        "description": "Explore Shey Phoksundo Lake and visit the village gompa.",
+        "highlights": [
+          "Shey Phoksundo Lake",
+          "Deepest lake in Nepal"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Ringmo",
+        "to": "Phoksundo Khola Camp",
+        "fromAltitude": 3640,
+        "toAltitude": 3960,
+        "walkingHours": 6,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek along the west shore of Phoksundo Lake.",
+        "highlights": [
+          "Lakeside trail",
+          "Turquoise waters"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Phoksundo Khola Camp",
+        "to": "Snowfields Camp",
+        "fromAltitude": 3960,
+        "toAltitude": 4500,
+        "walkingHours": 7,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Ascend through high alpine terrain toward Kang La.",
+        "highlights": [
+          "Alpine meadows",
+          "High altitude camp"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Snowfields Camp",
+        "to": "Shey Gompa",
+        "fromAltitude": 4500,
+        "toAltitude": 4050,
+        "walkingHours": 8,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Cross Kang La Pass (5,190m) and descend to the sacred Shey Gompa near Crystal Mountain.",
+        "highlights": [
+          "Kang La Pass (5,190m)",
+          "Shey Gompa",
+          "Crystal Mountain"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Shey Gompa",
+        "to": "Shey Gompa",
+        "fromAltitude": 4050,
+        "toAltitude": 4050,
+        "walkingHours": 4,
+        "distance": 5,
+        "isRestDay": true,
+        "description": "Explore the ancient Shey monastery complex and kora around Crystal Mountain.",
+        "highlights": [
+          "Crystal Mountain kora",
+          "Bon religion"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Shey Gompa",
+        "to": "Bhijer",
+        "fromAltitude": 4050,
+        "toAltitude": 3870,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek to the remote village of Bhijer past mani walls and chortens.",
+        "highlights": [
+          "Mani walls",
+          "Bhijer village"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Bhijer",
+        "to": "Saldang",
+        "fromAltitude": 3870,
+        "toAltitude": 3770,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek to Saldang, the largest settlement in Upper Dolpo.",
+        "highlights": [
+          "Saldang village",
+          "Largest Upper Dolpo settlement"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Saldang",
+        "to": "Jeng La BC",
+        "fromAltitude": 3770,
+        "toAltitude": 4510,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Ascend toward Jeng La Pass base camp.",
+        "highlights": [
+          "High altitude ascent",
+          "Remote terrain"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Jeng La BC",
+        "to": "Tokyu",
+        "fromAltitude": 4510,
+        "toAltitude": 4000,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Cross Jeng La Pass (5,090m) and descend to Tokyu.",
+        "highlights": [
+          "Jeng La Pass (5,090m)",
+          "Desert plateau"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Tokyu",
+        "to": "Dho Tarap",
+        "fromAltitude": 4000,
+        "toAltitude": 4040,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek through the Tarap Valley to Dho village.",
+        "highlights": [
+          "Tarap Valley",
+          "Dho Tarap village"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Dho Tarap",
+        "to": "Tarap Camp",
+        "fromAltitude": 4040,
+        "toAltitude": 3760,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Follow the Tarap Khola downstream.",
+        "highlights": [
+          "River valley",
+          "Canyon views"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Tarap Camp",
+        "to": "Laisicap",
+        "fromAltitude": 3760,
+        "toAltitude": 2950,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Continue descent through the narrow gorge.",
+        "highlights": [
+          "Tarap gorge",
+          "Steep descent"
+        ]
+      },
+      {
+        "day": 16,
+        "from": "Laisicap",
+        "to": "Juphal",
+        "fromAltitude": 2950,
+        "toAltitude": 2475,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Final trek back to Juphal. Fly to Nepalgunj.",
+        "highlights": [
+          "Trek completion",
+          "Flight to Nepalgunj"
+        ]
+      }
+    ],
+    "colorToken": "altitudeExtreme"
+  }
+]

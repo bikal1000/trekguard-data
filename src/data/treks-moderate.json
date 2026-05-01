@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "abc-trek",
+    "name": "Annapurna Base Camp",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Moderate",
+    "maxAltitude": 4130,
+    "totalDistance": 110,
+    "totalElevationGain": 4500,
+    "totalElevationLoss": 4500,
+    "durationDays": 10,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "May not be required for Annapurna region since April 2023 — verify before travel"
+      }
+    ],
+    "startPoint": "Nayapul",
+    "endPoint": "Nayapul",
+    "description": "A stunning trek into the Annapurna Sanctuary — a natural amphitheatre surrounded by towering peaks including Annapurna I (8,091m) and Machhapuchhre (6,993m).",
+    "highlights": [
+      "360° panorama at ABC (4,130m)",
+      "Machhapuchhre (Fishtail) close-up",
+      "Hot springs at Jhinu Danda",
+      "Poon Hill sunrise (optional)"
+    ],
+    "icon": "hiking",
+    "days": [
+      {
+        "day": 1,
+        "from": "Nayapul",
+        "to": "Ghandruk",
+        "fromAltitude": 1070,
+        "toAltitude": 1940,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Drive from Pokhara to Nayapul, then trek uphill through terraced fields and forests to the Gurung village of Ghandruk.",
+        "highlights": [
+          "Gurung culture",
+          "Terraced farmland"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Ghandruk",
+        "to": "Chhomrong",
+        "fromAltitude": 1940,
+        "toAltitude": 2170,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Trek through forests with views of Annapurna South and Hiunchuli. Descend to the Kimrong Khola and climb to Chhomrong.",
+        "highlights": [
+          "Annapurna South views",
+          "Chhomrong village"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Chhomrong",
+        "to": "Bamboo",
+        "fromAltitude": 2170,
+        "toAltitude": 2310,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Descend stone steps to the Chhomrong Khola, then climb through Sinuwa before descending into dense bamboo and rhododendron forest.",
+        "highlights": [
+          "Sinuwa ridge",
+          "Bamboo forest"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Bamboo",
+        "to": "Deurali",
+        "fromAltitude": 2310,
+        "toAltitude": 3230,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Ascend through lush forest, passing Dovan and Himalaya Hotel. The vegetation thins as you enter the alpine zone approaching Deurali.",
+        "highlights": [
+          "Himalaya Hotel (2,920m)",
+          "Entering alpine zone"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Deurali",
+        "to": "Annapurna Base Camp",
+        "fromAltitude": 3230,
+        "toAltitude": 4130,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Trek to Machhapuchhre Base Camp (3,700m) with stunning mountain views, then continue to ABC. The amphitheatre of peaks is breathtaking.",
+        "highlights": [
+          "Machhapuchhre BC (3,700m)",
+          "Annapurna Base Camp (4,130m)",
+          "360° mountain panorama"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Annapurna Base Camp",
+        "to": "Bamboo",
+        "fromAltitude": 4130,
+        "toAltitude": 2310,
+        "walkingHours": 6,
+        "distance": 17,
+        "isRestDay": false,
+        "description": "After sunrise at ABC, begin the long descent. Retrace through MBC, Deurali, and Himalaya Hotel to Bamboo."
+      },
+      {
+        "day": 7,
+        "from": "Bamboo",
+        "to": "Jhinu Danda",
+        "fromAltitude": 2310,
+        "toAltitude": 1780,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Climb back through Sinuwa and Chhomrong, then descend to Jhinu Danda. Relax tired muscles in the natural hot springs.",
+        "highlights": [
+          "Natural hot springs"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Jhinu Danda",
+        "to": "Ghorepani",
+        "fromAltitude": 1780,
+        "toAltitude": 2860,
+        "walkingHours": 7,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Climb through villages and rhododendron forests to Ghorepani for the optional Poon Hill sunrise the next morning."
+      },
+      {
+        "day": 9,
+        "from": "Ghorepani",
+        "to": "Nayapul",
+        "fromAltitude": 2860,
+        "toAltitude": 1070,
+        "walkingHours": 6,
+        "distance": 18,
+        "isRestDay": false,
+        "description": "Optional early hike to Poon Hill (3,210m) for sunrise. Then descend via Ulleri and Tikhedhunga to Nayapul. Drive to Pokhara.",
+        "highlights": [
+          "Poon Hill sunrise (3,210m)",
+          "Dhaulagiri and Annapurna views"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Pokhara",
+        "to": "Kathmandu",
+        "fromAltitude": 820,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive or fly from Pokhara to Kathmandu. The scenic 25-minute flight offers Himalayan views."
+      }
+    ],
+    "colorToken": "altitudeModerate"
+  },
+  {
+    "id": "langtang-valley",
+    "name": "Langtang Valley",
+    "region": "Langtang",
+    "mapRegionId": "langtang-valley",
+    "difficulty": "Moderate",
+    "maxAltitude": 4984,
+    "totalDistance": 65,
+    "totalElevationGain": 3600,
+    "totalElevationLoss": 3600,
+    "durationDays": 8,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Langtang National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true,
+        "note": "Free/nominal for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Syabrubesi",
+    "endPoint": "Syabrubesi",
+    "description": "A compact but rewarding trek through the Langtang Valley — the \"Valley of Glaciers.\" Close to Kathmandu with rich Tamang culture, yak cheese, and stunning mountain views.",
+    "highlights": [
+      "Tserko Ri viewpoint (4,984m)",
+      "Kyanjin Gompa monastery",
+      "Yak cheese factory",
+      "Tamang heritage trail"
+    ],
+    "icon": "mountains",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kathmandu",
+        "to": "Syabrubesi",
+        "fromAltitude": 1338,
+        "toAltitude": 1550,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Scenic 7–8 hour drive from Kathmandu to Syabrubesi along winding mountain roads. Rest and prepare for the trek."
+      },
+      {
+        "day": 2,
+        "from": "Syabrubesi",
+        "to": "Lama Hotel",
+        "fromAltitude": 1550,
+        "toAltitude": 2470,
+        "walkingHours": 6,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Trek through dense oak, rhododendron, and bamboo forests. Cross suspension bridges over the Langtang Khola. Lama Hotel is a collection of lodges in the forest.",
+        "highlights": [
+          "Suspension bridges",
+          "Dense forest trail"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Lama Hotel",
+        "to": "Langtang Village",
+        "fromAltitude": 2470,
+        "toAltitude": 3430,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Continue uphill with improving views. Pass yak pastures at Ghodatabela (3,000m) with mountain vistas opening up. Langtang Village is a rebuilt Tamang settlement.",
+        "highlights": [
+          "Ghodatabela views",
+          "Tamang culture"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Langtang Village",
+        "to": "Kyanjin Gompa",
+        "fromAltitude": 3430,
+        "toAltitude": 3870,
+        "walkingHours": 3,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Shorter day for acclimatization. Trek through meadows and glacial moraine to Kyanjin Gompa. Visit the monastery and the yak cheese factory.",
+        "highlights": [
+          "Kyanjin Gompa monastery",
+          "Yak cheese factory",
+          "Langtang Lirung views"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Kyanjin Gompa",
+        "to": "Kyanjin Gompa",
+        "fromAltitude": 3870,
+        "toAltitude": 3870,
+        "walkingHours": 6,
+        "distance": 9,
+        "isRestDay": true,
+        "description": "Acclimatization day. Hike to Tserko Ri (4,984m) for stunning 360° views of Langtang Lirung, Ganesh Himal, and possibly Shishapangma in Tibet. Return to sleep at Kyanjin Gompa.",
+        "highlights": [
+          "Tserko Ri (4,984m)",
+          "360° panorama",
+          "Views into Tibet"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Kyanjin Gompa",
+        "to": "Lama Hotel",
+        "fromAltitude": 3870,
+        "toAltitude": 2470,
+        "walkingHours": 6,
+        "distance": 19,
+        "isRestDay": false,
+        "description": "Descend back through the valley, retracing the route through Langtang Village and Ghodatabela to Lama Hotel."
+      },
+      {
+        "day": 7,
+        "from": "Lama Hotel",
+        "to": "Syabrubesi",
+        "fromAltitude": 2470,
+        "toAltitude": 1550,
+        "walkingHours": 5,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Final trekking day. Descend through the forest back to Syabrubesi."
+      },
+      {
+        "day": 8,
+        "from": "Syabrubesi",
+        "to": "Kathmandu",
+        "fromAltitude": 1550,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive back to Kathmandu (7–8 hours)."
+      }
+    ],
+    "colorToken": "altitudeVeryHigh"
+  },
+  {
+    "id": "gosaikunda",
+    "name": "Gosaikunda Trek",
+    "region": "Langtang",
+    "mapRegionId": "langtang-valley",
+    "difficulty": "Moderate",
+    "maxAltitude": 4380,
+    "totalDistance": 44,
+    "totalElevationGain": 3200,
+    "totalElevationLoss": 3200,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Langtang National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true,
+        "note": "Free/nominal for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Dhunche",
+    "endPoint": "Dhunche",
+    "description": "Trek to the sacred Gosaikunda Lake (4,380m), a holy Hindu pilgrimage site surrounded by 108 alpine lakes. Stunning views of Langtang and Ganesh Himal ranges. Popular during the Janai Purnima festival.",
+    "highlights": [
+      "Sacred Gosaikunda Lake (4,380m)",
+      "Laurebina viewpoint",
+      "Langtang & Ganesh Himal panorama",
+      "Sing Gompa monastery & yak cheese factory"
+    ],
+    "icon": "waves",
+    "days": [
+      {
+        "day": 1,
+        "from": "Dhunche",
+        "to": "Sing Gompa",
+        "fromAltitude": 1960,
+        "toAltitude": 3330,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Drive from Kathmandu to Dhunche (6–7 hrs), then trek uphill through oak and rhododendron forest to Sing Gompa (Chandanbari). Visit the monastery and yak cheese factory.",
+        "highlights": [
+          "Sing Gompa monastery",
+          "Yak cheese factory"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Sing Gompa",
+        "to": "Laurebina",
+        "fromAltitude": 3330,
+        "toAltitude": 3910,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Trek through forests to Cholangpati (3,650m) with spectacular mountain views. Continue ascending to Laurebina, an important acclimatization stop.",
+        "highlights": [
+          "Cholangpati viewpoint (3,650m)",
+          "Mountain panorama"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Laurebina",
+        "to": "Gosaikunda",
+        "fromAltitude": 3910,
+        "toAltitude": 4380,
+        "walkingHours": 4,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Steep and rewarding ascent through rocky alpine terrain. Pass Saraswati Kunda and Bhairav Kunda before reaching the stunning turquoise Gosaikunda Lake at 4,380m.",
+        "highlights": [
+          "Gosaikunda Lake (4,380m)",
+          "Saraswati Kunda",
+          "Bhairav Kunda"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Gosaikunda",
+        "to": "Sing Gompa",
+        "fromAltitude": 4380,
+        "toAltitude": 3330,
+        "walkingHours": 5,
+        "distance": 16,
+        "isRestDay": false,
+        "description": "Explore the lake in the morning, then descend retracing the route through Laurebina and Cholangpati back to Sing Gompa."
+      },
+      {
+        "day": 5,
+        "from": "Sing Gompa",
+        "to": "Dhunche",
+        "fromAltitude": 3330,
+        "toAltitude": 1960,
+        "walkingHours": 3,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Descend through forest trails back to Dhunche. Drive back to Kathmandu (6–7 hours)."
+      }
+    ],
+    "colorToken": "accent"
+  },
+  {
+    "id": "mardi-himal",
+    "name": "Mardi Himal Trek",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Moderate",
+    "maxAltitude": 4500,
+    "totalDistance": 50,
+    "totalElevationGain": 3300,
+    "totalElevationLoss": 3300,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "May not be required for Annapurna region since April 2023 — verify before travel"
+      }
+    ],
+    "startPoint": "Kande",
+    "endPoint": "Sidhing",
+    "description": "A spectacular ridgeline trek offering intimate views of Machhapuchhre (Fishtail), Annapurna South, and Mardi Himal. The trail follows a narrow ridge with dramatic drop-offs on both sides, culminating at Base Camp (4,500m).",
+    "highlights": [
+      "Mardi Himal Base Camp (4,500m)",
+      "Machhapuchhre (Fishtail) close-up",
+      "Dramatic ridgeline walking",
+      "Annapurna South & Hiunchuli views"
+    ],
+    "icon": "image-filter-hdr",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kande",
+        "to": "Forest Camp",
+        "fromAltitude": 1770,
+        "toAltitude": 2600,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Drive from Pokhara to Kande (1 hr). Trek through lush rhododendron forests past Australian Camp viewpoint to Forest Camp nestled in dense woodland.",
+        "highlights": [
+          "Australian Camp viewpoint",
+          "Rhododendron forest"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Forest Camp",
+        "to": "Low Camp",
+        "fromAltitude": 2600,
+        "toAltitude": 2970,
+        "walkingHours": 4,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Continue through bamboo and rhododendron forest with first views of Machhapuchhre and Annapurna South emerging through the canopy.",
+        "highlights": [
+          "First Machhapuchhre views",
+          "Bamboo forest"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Low Camp",
+        "to": "High Camp",
+        "fromAltitude": 2970,
+        "toAltitude": 3580,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Ascend above the treeline onto the open Mardi ridge. The landscape transforms to alpine meadows with increasingly spectacular mountain views.",
+        "highlights": [
+          "Above the treeline",
+          "Mardi Himal ridge",
+          "Panoramic views"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "High Camp",
+        "to": "Low Camp",
+        "fromAltitude": 3580,
+        "toAltitude": 2970,
+        "walkingHours": 7,
+        "distance": 15,
+        "isRestDay": false,
+        "description": "Early morning ascent to Mardi Himal Base Camp (4,500m) along a dramatic, narrow ridgeline. 360° panorama at sunrise includes Annapurna I, South, Hiunchuli, Gangapurna, and Machhapuchhre. Descend to Low Camp.",
+        "highlights": [
+          "Mardi Himal BC (4,500m)",
+          "360° sunrise panorama",
+          "Narrow ridge walk"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Low Camp",
+        "to": "Sidhing",
+        "fromAltitude": 2970,
+        "toAltitude": 1700,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Descend through forests and traditional villages to Sidhing. Drive back to Pokhara (3–4 hours)."
+      }
+    ],
+    "colorToken": "altitudeHigh"
+  },
+  {
+    "id": "kori-danda",
+    "name": "Kori Danda Trek",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Moderate",
+    "maxAltitude": 3800,
+    "totalDistance": 54,
+    "totalElevationGain": 3100,
+    "totalElevationLoss": 3100,
+    "durationDays": 7,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Dec"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "May not be required for Annapurna region since April 2023 — verify before travel"
+      }
+    ],
+    "startPoint": "Sikles",
+    "endPoint": "Sikles",
+    "description": "An off-the-beaten-path trek in the Annapurna Conservation Area combining Kapuche Glacier Lake (2,450m) with the panoramic summit of Kori Danda (3,800m). Passes through pristine forests, alpine meadows, and authentic Gurung villages with views of Annapurna II, Lamjung Himal, and the Pokhara Valley.",
+    "highlights": [
+      "Kori Danda viewpoint (3,800m)",
+      "Kapuche Glacier Lake (2,450m)",
+      "Annapurna II & Lamjung Himal panorama",
+      "Sikles — largest Gurung village"
+    ],
+    "icon": "terrain",
+    "days": [
+      {
+        "day": 1,
+        "from": "Pokhara",
+        "to": "Hugu Goth",
+        "fromAltitude": 820,
+        "toAltitude": 2050,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Drive from Pokhara to Sikles (2 hours by jeep) through terraced farmlands, hills, and rivers. Trek from Sikles with stunning views of Annapurna II, Annapurna IV, and Lamjung Himal to Hugu Goth.",
+        "highlights": [
+          "Sikles Gurung village",
+          "Annapurna II views",
+          "River valley scenery"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Hugu Goth",
+        "to": "Hugu Goth",
+        "fromAltitude": 2050,
+        "toAltitude": 2050,
+        "walkingHours": 6,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Day hike to Kapuche Glacier Lake (2,450m) — the world's lowest-altitude glacier lake. The turquoise waters sit beneath Annapurna II with floating icebergs. Return to Hugu Goth for the night.",
+        "highlights": [
+          "Kapuche Glacier Lake (2,450m)",
+          "Floating icebergs",
+          "Turquoise glacial water"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Hugu Goth",
+        "to": "Nohtha",
+        "fromAltitude": 2050,
+        "toAltitude": 3050,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Cross Hugu Khola and ascend through rhododendron, fir, and pine forests. The mountains appear closer as you climb. Nohtha offers basic teahouse accommodation.",
+        "highlights": [
+          "Rhododendron forest",
+          "Mountain panorama"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Nohtha",
+        "to": "Kori Danda",
+        "fromAltitude": 3050,
+        "toAltitude": 3800,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "The summit day. Climb steep hills, leaving the tree line behind as the landscape opens to alpine meadows. Kori Danda (3,800m) rewards with 360° views of Annapurna II, Lamjung Himal, and the Pokhara Valley below. Camp at the summit.",
+        "highlights": [
+          "Kori Danda summit (3,800m)",
+          "360° mountain panorama",
+          "Alpine meadows above treeline"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Kori Danda",
+        "to": "Sikles",
+        "fromAltitude": 3800,
+        "toAltitude": 1980,
+        "walkingHours": 6,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Descend from the summit through forests and grasslands back to Sikles village. Spend time with locals and learn about Gurung culture and traditions.",
+        "highlights": [
+          "Gurung village experience",
+          "Grassland descent"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Sikles",
+        "to": "Pokhara",
+        "fromAltitude": 1980,
+        "toAltitude": 820,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive from Sikles back to Pokhara (2 hours by jeep). Enjoy boating on Fewa Lake and explore Lakeside."
+      },
+      {
+        "day": 7,
+        "from": "Pokhara",
+        "to": "Kathmandu",
+        "fromAltitude": 820,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive or fly from Pokhara to Kathmandu. The scenic 25-minute flight offers Himalayan views."
+      }
+    ],
+    "colorToken": "altitudeModerate"
+  },
+  {
+    "id": "shey-phoksundo",
+    "name": "Shey Phoksundo Lake Trek",
+    "region": "Dolpa",
+    "mapRegionId": "dolpa",
+    "difficulty": "Moderate",
+    "maxAltitude": 3612,
+    "totalDistance": 70,
+    "totalElevationGain": 3400,
+    "totalElevationLoss": 3400,
+    "durationDays": 10,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Shey Phoksundo National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true,
+        "note": "Free/nominal for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Juphal",
+    "endPoint": "Juphal",
+    "description": "Journey to Nepal's deepest lake in the remote Dolpa region. Shey Phoksundo Lake's stunning turquoise water, the 167m Phoksundo waterfall, and ancient Bon monasteries create an otherworldly experience in one of Nepal's most pristine areas.",
+    "highlights": [
+      "Shey Phoksundo Lake (3,612m)",
+      "167m Phoksundo waterfall",
+      "900-year-old Bon monastery",
+      "Remote Dolpa cultural immersion"
+    ],
+    "icon": "waves",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kathmandu",
+        "to": "Nepalgunj",
+        "fromAltitude": 1338,
+        "toAltitude": 150,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Fly from Kathmandu to Nepalgunj (1 hour), the gateway to Western Nepal."
+      },
+      {
+        "day": 2,
+        "from": "Nepalgunj",
+        "to": "Juphal",
+        "fromAltitude": 150,
+        "toAltitude": 2475,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Early morning flight to Juphal (Dolpa) — one of Nepal's most scenic short flights over the hills of western Nepal."
+      },
+      {
+        "day": 3,
+        "from": "Juphal",
+        "to": "Dunai",
+        "fromAltitude": 2475,
+        "toAltitude": 2140,
+        "walkingHours": 3,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Descend to the Thulo Bheri valley, passing through terraced fields and villages. Dunai is the district headquarters of Dolpa.",
+        "highlights": [
+          "Thulo Bheri valley",
+          "Dunai town"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Dunai",
+        "to": "Chhepka",
+        "fromAltitude": 2140,
+        "toAltitude": 2670,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek along the Bheri River through Suligad — the Shey Phoksundo National Park entrance. Continue through walnut and maple forests to Chhepka.",
+        "highlights": [
+          "National Park entrance",
+          "Walnut & maple forest"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Chhepka",
+        "to": "Jharana Hotel",
+        "fromAltitude": 2670,
+        "toAltitude": 3110,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Continue along the Phoksundo River through birch forests. The trail gradually ascends with increasingly dramatic scenery."
+      },
+      {
+        "day": 6,
+        "from": "Jharana Hotel",
+        "to": "Ringmo (Phoksundo Lake)",
+        "fromAltitude": 3110,
+        "toAltitude": 3612,
+        "walkingHours": 4,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "A spectacular day — trek through birch forest and along the Phoksundo River to Ringmo village on the shore of Shey Phoksundo Lake. Views of the 167m Phoksundo waterfall.",
+        "highlights": [
+          "Shey Phoksundo Lake (3,612m)",
+          "167m waterfall",
+          "Ringmo village"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Ringmo",
+        "to": "Ringmo",
+        "fromAltitude": 3612,
+        "toAltitude": 3612,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": true,
+        "description": "Exploration day. Hike along the lakeshore, visit the 900-year-old Thashung Bon monastery, and enjoy viewpoints overlooking the turquoise lake and snow-capped peaks.",
+        "highlights": [
+          "Thashung Bon monastery",
+          "Lakeshore hike",
+          "Turquoise lake panorama"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Ringmo",
+        "to": "Chhepka",
+        "fromAltitude": 3612,
+        "toAltitude": 2670,
+        "walkingHours": 6,
+        "distance": 18,
+        "isRestDay": false,
+        "description": "Begin the descent, retracing steps through pine forests with scenic views of the lake from above."
+      },
+      {
+        "day": 9,
+        "from": "Chhepka",
+        "to": "Juphal",
+        "fromAltitude": 2670,
+        "toAltitude": 2475,
+        "walkingHours": 6,
+        "distance": 19,
+        "isRestDay": false,
+        "description": "Continue descending along the Phoksundo River and Thuli Bheri River back to Juphal."
+      },
+      {
+        "day": 10,
+        "from": "Juphal",
+        "to": "Kathmandu",
+        "fromAltitude": 2475,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Fly from Juphal to Nepalgunj, then connecting flight to Kathmandu."
+      }
+    ],
+    "colorToken": "purple"
+  },
+  {
+    "id": "tsum-valley",
+    "name": "Tsum Valley",
+    "region": "Manaslu",
+    "mapRegionId": "manaslu-circuit",
+    "difficulty": "Moderate",
+    "maxAltitude": 3700,
+    "totalDistance": 85,
+    "totalElevationGain": 4200,
+    "totalElevationLoss": 4200,
+    "durationDays": 12,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Manaslu Restricted Area Permit",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": " for Sep-Nov,  other months"
+      },
+      {
+        "name": "MCAP (Manaslu Conservation Area Permit)",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Soti Khola",
+    "endPoint": "Soti Khola",
+    "description": "A sacred hidden valley of Tibetan Buddhist culture. The Tsum Valley was closed to outsiders until 2008. Explore ancient gompas, mani walls, and traditional villages beneath Ganesh Himal and Sringi Himal.",
+    "highlights": [
+      "Ancient Tibetan Buddhist monasteries",
+      "Mu Gompa — largest monastery in Tsum",
+      "Milarepa Cave",
+      "Ganesh Himal & Sringi Himal views"
+    ],
+    "icon": "church",
+    "days": [
+      {
+        "day": 1,
+        "from": "Soti Khola",
+        "to": "Machha Khola",
+        "fromAltitude": 730,
+        "toAltitude": 930,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek along the Budhi Gandaki river through subtropical forests.",
+        "highlights": [
+          "Budhi Gandaki gorge",
+          "Suspension bridges"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Machha Khola",
+        "to": "Jagat",
+        "fromAltitude": 930,
+        "toAltitude": 1410,
+        "walkingHours": 6,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Continue along the river, passing waterfalls and hot springs.",
+        "highlights": [
+          "Hot springs",
+          "Waterfalls"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Jagat",
+        "to": "Lokpa",
+        "fromAltitude": 1410,
+        "toAltitude": 1960,
+        "walkingHours": 6,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Enter the Tsum Valley through the gorge. Landscape transitions to Tibetan-style terrain.",
+        "highlights": [
+          "Tsum Valley entrance",
+          "First mani walls"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Lokpa",
+        "to": "Chumling",
+        "fromAltitude": 1960,
+        "toAltitude": 2350,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek through the heart of Tsum Valley past ancient mani walls and chortens.",
+        "highlights": [
+          "Mani walls",
+          "Chortens",
+          "Chumling village"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Chumling",
+        "to": "Nile",
+        "fromAltitude": 2350,
+        "toAltitude": 3330,
+        "walkingHours": 6,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Ascend through forests to the upper Tsum Valley with views of Ganesh Himal.",
+        "highlights": [
+          "Ganesh Himal views",
+          "Upper Tsum Valley"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Nile",
+        "to": "Mu Gompa",
+        "fromAltitude": 3330,
+        "toAltitude": 3700,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Visit the famous Mu Gompa, the largest monastery in Tsum Valley.",
+        "highlights": [
+          "Mu Gompa monastery",
+          "Sringi Himal views"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Mu Gompa",
+        "to": "Chhokang Paro",
+        "fromAltitude": 3700,
+        "toAltitude": 3010,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Explore the upper valley and visit Milarepa meditation cave. Descend to Chhokang Paro.",
+        "highlights": [
+          "Milarepa Cave",
+          "Ancient rock paintings"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Chhokang Paro",
+        "to": "Lokpa",
+        "fromAltitude": 3010,
+        "toAltitude": 1960,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Descend through the valley back to Lokpa.",
+        "highlights": [
+          "Valley views",
+          "Tibetan villages"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Lokpa",
+        "to": "Jagat",
+        "fromAltitude": 1960,
+        "toAltitude": 1410,
+        "walkingHours": 5,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Continue descent through the gorge back to Jagat.",
+        "highlights": [
+          "River gorge",
+          "Subtropical forests"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Jagat",
+        "to": "Soti Khola",
+        "fromAltitude": 1410,
+        "toAltitude": 730,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Final day trekking back to Soti Khola.",
+        "highlights": [
+          "Return journey",
+          "Hot springs"
+        ]
+      }
+    ],
+    "colorToken": "altitudeHigh"
+  },
+  {
+    "id": "jomsom-muktinath",
+    "name": "Jomsom Muktinath",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-circuit",
+    "difficulty": "Moderate",
+    "maxAltitude": 3800,
+    "totalDistance": 55,
+    "totalElevationGain": 1800,
+    "totalElevationLoss": 1800,
+    "durationDays": 7,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "ACAP (Annapurna Conservation Area Permit)",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Jomsom",
+    "endPoint": "Jomsom",
+    "description": "Walk through the deepest gorge in the world along the Kali Gandaki river to the sacred Muktinath temple (3,800m). An ancient salt-trade route with Thakali culture and apple orchards.",
+    "highlights": [
+      "Muktinath Temple (3,800m)",
+      "Kali Gandaki — deepest gorge",
+      "Marpha — apple capital of Nepal",
+      "Kagbeni medieval village"
+    ],
+    "icon": "temple-buddhist",
+    "days": [
+      {
+        "day": 1,
+        "from": "Jomsom",
+        "to": "Kagbeni",
+        "fromAltitude": 2720,
+        "toAltitude": 2810,
+        "walkingHours": 3,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Easy walk along the Kali Gandaki river to the medieval village of Kagbeni.",
+        "highlights": [
+          "Kali Gandaki valley",
+          "Kagbeni village"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Kagbeni",
+        "to": "Muktinath",
+        "fromAltitude": 2810,
+        "toAltitude": 3800,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Ascend to the sacred temple of Muktinath, holy to both Hindus and Buddhists.",
+        "highlights": [
+          "Muktinath Temple",
+          "108 water spouts",
+          "Eternal flame"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Muktinath",
+        "to": "Kagbeni",
+        "fromAltitude": 3800,
+        "toAltitude": 2810,
+        "walkingHours": 3,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Descend back to Kagbeni. Explore the village and its Kag Chode Thubten Samphel Ling Monastery.",
+        "highlights": [
+          "Kagbeni monastery",
+          "Medieval architecture"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Kagbeni",
+        "to": "Marpha",
+        "fromAltitude": 2810,
+        "toAltitude": 2670,
+        "walkingHours": 5,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Trek south along the Kali Gandaki to Marpha, famous for its apple orchards and brandy.",
+        "highlights": [
+          "Marpha village",
+          "Apple orchards",
+          "Apple brandy"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Marpha",
+        "to": "Tukuche",
+        "fromAltitude": 2670,
+        "toAltitude": 2590,
+        "walkingHours": 3,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Short trek to Tukuche, an old Thakali trading town. Visit the distillery.",
+        "highlights": [
+          "Tukuche Peak views",
+          "Thakali culture"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Tukuche",
+        "to": "Jomsom",
+        "fromAltitude": 2590,
+        "toAltitude": 2720,
+        "walkingHours": 4,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Return trek to Jomsom along the river valley.",
+        "highlights": [
+          "Kali Gandaki valley",
+          "Nilgiri views"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Jomsom",
+        "to": "Jomsom",
+        "fromAltitude": 2720,
+        "toAltitude": 2720,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": true,
+        "description": "Buffer day. Fly back to Pokhara.",
+        "highlights": [
+          "Flight to Pokhara"
+        ]
+      }
+    ],
+    "colorToken": "altitudeHigh"
+  }
+]

@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "poon-hill",
+    "name": "Poon Hill",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 3210,
+    "totalDistance": 45,
+    "totalElevationGain": 2400,
+    "totalElevationLoss": 2400,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Dec"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "May not be required for Annapurna region since April 2023 — verify before travel"
+      }
+    ],
+    "startPoint": "Nayapul",
+    "endPoint": "Nayapul",
+    "description": "The perfect short trek for beginners and families. Climb to Poon Hill for one of Nepal's most famous sunrise views — a panorama from Dhaulagiri (8,167m) to Annapurna South across the entire range.",
+    "highlights": [
+      "Poon Hill sunrise (3,210m)",
+      "Dhaulagiri panorama",
+      "Gurung village of Ghandruk",
+      "Rhododendron forests (spring)"
+    ],
+    "icon": "weather-sunset-up",
+    "days": [
+      {
+        "day": 1,
+        "from": "Nayapul",
+        "to": "Tikhedhunga",
+        "fromAltitude": 1070,
+        "toAltitude": 1540,
+        "walkingHours": 4,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Drive from Pokhara to Nayapul (1.5 hours), then trek along the Modi Khola through Birethanti to Tikhedhunga.",
+        "highlights": [
+          "Birethanti checkpoint",
+          "Modi Khola river"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Tikhedhunga",
+        "to": "Ghorepani",
+        "fromAltitude": 1540,
+        "toAltitude": 2860,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "The toughest day — climb over 3,000 stone steps through Ulleri and rhododendron forests to Ghorepani. Stunning if rhododendrons are blooming (March–April).",
+        "highlights": [
+          "Ulleri stone steps",
+          "Rhododendron forest"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Ghorepani",
+        "to": "Tadapani",
+        "fromAltitude": 2860,
+        "toAltitude": 2630,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Pre-dawn hike to Poon Hill (3,210m) for the famous sunrise over Dhaulagiri, Annapurna South, Machhapuchhre, and the entire range. Return to Ghorepani for breakfast, then trek to Tadapani.",
+        "highlights": [
+          "Poon Hill sunrise (3,210m)",
+          "Dhaulagiri & Annapurna panorama"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Tadapani",
+        "to": "Ghandruk",
+        "fromAltitude": 2630,
+        "toAltitude": 2020,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Descend through beautiful forests to Ghandruk, a traditional Gurung village with annapurna views and a cultural museum.",
+        "highlights": [
+          "Ghandruk Gurung village",
+          "Cultural museum",
+          "Mountain views"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Ghandruk",
+        "to": "Nayapul",
+        "fromAltitude": 2020,
+        "toAltitude": 1070,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Final descent to Nayapul through terraced fields. Drive back to Pokhara."
+      }
+    ],
+    "colorToken": "success"
+  },
+  {
+    "id": "ama-yangri",
+    "name": "Ama Yangri Trek",
+    "region": "Langtang",
+    "mapRegionId": "langtang-valley",
+    "difficulty": "Easy",
+    "maxAltitude": 3771,
+    "totalDistance": 30,
+    "totalElevationGain": 2400,
+    "totalElevationLoss": 2400,
+    "durationDays": 4,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Langtang National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true,
+        "note": "Free/nominal for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Kathmandu",
+    "endPoint": "Kathmandu",
+    "description": "A short and accessible trek in the Helambu region offering 360° views of Langtang, Ganesh Himal, Jugal Himal, and Dorje Lakpa from the summit of Ama Yangri at 3,771m. Rich in Hyolmo and Tamang culture.",
+    "highlights": [
+      "Ama Yangri Peak (3,771m)",
+      "360° panorama of Langtang & Ganesh Himal",
+      "Hyolmo culture in Tarkeghyang",
+      "Close to Kathmandu — beginner friendly"
+    ],
+    "icon": "hiking",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kathmandu",
+        "to": "Tarkeghyang",
+        "fromAltitude": 1338,
+        "toAltitude": 2600,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Scenic 5–6 hour drive from Kathmandu through the hills of Sindhupalchok District to Tarkeghyang, a charming Hyolmo village with ancient monasteries.",
+        "highlights": [
+          "Hyolmo village",
+          "Ancient monasteries"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Tarkeghyang",
+        "to": "Tarkeghyang",
+        "fromAltitude": 2600,
+        "toAltitude": 2600,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Early start for the round-trip climb to Ama Yangri Peak (3,771m). Trail passes through pine and oak forests, then open meadows. 360° summit views include Langtang, Ganesh Himal, Jugal Himal, and on clear days, Everest.",
+        "highlights": [
+          "Ama Yangri Peak (3,771m)",
+          "Panoramic Himalayan views",
+          "Pine & oak forests"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Tarkeghyang",
+        "to": "Timbu",
+        "fromAltitude": 2600,
+        "toAltitude": 1580,
+        "walkingHours": 3,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Downhill trek through forests and traditional settlements. Visit Sermathang village en route. The trail descends through terraced farmland to Timbu.",
+        "highlights": [
+          "Sermathang village",
+          "Terraced farmland"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Timbu",
+        "to": "Kathmandu",
+        "fromAltitude": 1580,
+        "toAltitude": 1338,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive back to Kathmandu (4–5 hours)."
+      }
+    ],
+    "colorToken": "success"
+  },
+  {
+    "id": "kapuche-glacier",
+    "name": "Kapuche Glacier Lake",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 2546,
+    "totalDistance": 32,
+    "totalElevationGain": 1700,
+    "totalElevationLoss": 1700,
+    "durationDays": 4,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Dec"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "May not be required for Annapurna region since April 2023 — verify before travel"
+      }
+    ],
+    "startPoint": "Sikles",
+    "endPoint": "Sikles",
+    "description": "Trek to the world's lowest-altitude glacier lake at just 2,546m. Kapuche Glacier Lake sits at the base of Annapurna II with turquoise waters and floating icebergs — an extraordinary sight accessible even to beginners.",
+    "highlights": [
+      "World's lowest glacier lake (2,546m)",
+      "Floating icebergs & turquoise water",
+      "Annapurna II & Lamjung Himal views",
+      "Sikles — largest Gurung village"
+    ],
+    "icon": "snowflake",
+    "days": [
+      {
+        "day": 1,
+        "from": "Pokhara",
+        "to": "Sikles",
+        "fromAltitude": 820,
+        "toAltitude": 1980,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Scenic 2–3 hour drive from Pokhara to Sikles, one of Nepal's largest and oldest Gurung villages. Explore the village's unique architecture and culture.",
+        "highlights": [
+          "Gurung village culture",
+          "Ancient architecture"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Sikles",
+        "to": "Hugu Goth",
+        "fromAltitude": 1980,
+        "toAltitude": 2100,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek through a mix of rocky paths, steep sections, and dense forest. The trail passes the Yedi waterfall and offers glimpses of wildlife in the Annapurna Conservation Area.",
+        "highlights": [
+          "Yedi waterfall",
+          "Dense forest trail"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Hugu Goth",
+        "to": "Sikles",
+        "fromAltitude": 2100,
+        "toAltitude": 1980,
+        "walkingHours": 6,
+        "distance": 15,
+        "isRestDay": false,
+        "description": "Early morning trek to Kapuche Glacier Lake (2,546m). The turquoise lake sits beneath Annapurna II glacier with floating icebergs and occasional avalanches visible from the surrounding peaks. Return to Sikles via Hugu Goth.",
+        "highlights": [
+          "Kapuche Glacier Lake (2,546m)",
+          "Floating icebergs",
+          "Avalanche views"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Sikles",
+        "to": "Pokhara",
+        "fromAltitude": 1980,
+        "toAltitude": 820,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive back to Pokhara (2–3 hours)."
+      }
+    ],
+    "colorToken": "cyan"
+  },
+  {
+    "id": "ghandruk-loop",
+    "name": "Ghandruk Loop",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 1940,
+    "totalDistance": 32,
+    "totalElevationGain": 1400,
+    "totalElevationLoss": 1400,
+    "durationDays": 3,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "ACAP (Annapurna Conservation Area Permit)",
+        "requiredForNepali": true,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Nayapul",
+    "endPoint": "Nayapul",
+    "description": "A short, scenic loop through the Gurung village of Ghandruk with stunning views of Annapurna South, Hiunchuli, and Machhapuchhre (Fishtail). Perfect for beginners wanting a taste of Himalayan trekking.",
+    "highlights": [
+      "Ghandruk — traditional Gurung village",
+      "Annapurna South & Machhapuchhre views",
+      "Jhinu Danda hot springs",
+      "Rhododendron forests"
+    ],
+    "icon": "hiking",
+    "days": [
+      {
+        "day": 1,
+        "from": "Nayapul",
+        "to": "Ghandruk",
+        "fromAltitude": 1070,
+        "toAltitude": 1940,
+        "walkingHours": 5,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Trek from Nayapul through terraced rice fields and Gurung villages, ascending gradually to Ghandruk with views of Annapurna South.",
+        "highlights": [
+          "Terraced farmlands",
+          "Modi Khola valley",
+          "First mountain views"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Ghandruk",
+        "to": "Jhinu Danda",
+        "fromAltitude": 1940,
+        "toAltitude": 1780,
+        "walkingHours": 4,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Explore Ghandruk village in the morning, then descend through forests to Jhinu Danda. Relax in the natural hot springs by the Modi Khola river.",
+        "highlights": [
+          "Ghandruk museum",
+          "Suspension bridges",
+          "Jhinu hot springs"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Jhinu Danda",
+        "to": "Nayapul",
+        "fromAltitude": 1780,
+        "toAltitude": 1070,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Descend along the Modi Khola river back to Nayapul through villages and farmlands.",
+        "highlights": [
+          "Modi Khola riverside walk",
+          "Local villages"
+        ]
+      }
+    ],
+    "colorToken": "altitudeLow"
+  },
+  {
+    "id": "pikey-peak",
+    "name": "Pikey Peak",
+    "region": "Everest",
+    "mapRegionId": "everest-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 4065,
+    "totalDistance": 45,
+    "totalElevationGain": 2200,
+    "totalElevationLoss": 2200,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Solu-Khumbu Local Permit",
+        "requiredForNepali": false,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Dhap",
+    "endPoint": "Phaplu",
+    "description": "A hidden gem offering one of the best panoramic views in Nepal. From Pikey Peak summit you see Everest, Kanchenjunga, Makalu, Lhotse, and Dhaulagiri in a 180° sweep — without the crowds of the EBC trek.",
+    "highlights": [
+      "Pikey Peak summit (4,065m)",
+      "180° Himalayan panorama",
+      "Sherpa villages & monasteries",
+      "Sunrise over Everest"
+    ],
+    "icon": "image-filter-hdr",
+    "days": [
+      {
+        "day": 1,
+        "from": "Dhap",
+        "to": "Jhapre",
+        "fromAltitude": 2900,
+        "toAltitude": 2920,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek through terraced fields and rhododendron forests with views of Numbur Himal.",
+        "highlights": [
+          "Terraced villages",
+          "Rhododendron forests"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Jhapre",
+        "to": "Pikey Base Camp",
+        "fromAltitude": 2920,
+        "toAltitude": 3640,
+        "walkingHours": 6,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Steeper ascent through yak pastures and small monasteries to Pikey Base Camp.",
+        "highlights": [
+          "Yak pastures",
+          "Buddhist monasteries"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Pikey Base Camp",
+        "to": "Junbesi",
+        "fromAltitude": 3640,
+        "toAltitude": 2680,
+        "walkingHours": 7,
+        "distance": 16,
+        "isRestDay": false,
+        "description": "Early morning summit of Pikey Peak (4,065m) for sunrise with 180° Himalayan views. Descend to Junbesi.",
+        "highlights": [
+          "Pikey Peak sunrise (4,065m)",
+          "Everest panorama",
+          "Junbesi monastery"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Junbesi",
+        "to": "Junbesi",
+        "fromAltitude": 2680,
+        "toAltitude": 2680,
+        "walkingHours": 4,
+        "distance": 6,
+        "isRestDay": true,
+        "description": "Explore Junbesi village and visit the Thupten Chholing Monastery.",
+        "highlights": [
+          "Thupten Chholing Gompa",
+          "Sherpa culture"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Junbesi",
+        "to": "Phaplu",
+        "fromAltitude": 2680,
+        "toAltitude": 2475,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Gentle trek to Phaplu through Sherpa villages. Fly back to Kathmandu.",
+        "highlights": [
+          "Phaplu airstrip",
+          "Sherpa villages"
+        ]
+      }
+    ],
+    "colorToken": "altitudeHigh"
+  },
+  {
+    "id": "helambu-trek",
+    "name": "Helambu Trek",
+    "region": "Langtang",
+    "mapRegionId": "langtang-valley",
+    "difficulty": "Easy",
+    "maxAltitude": 3640,
+    "totalDistance": 40,
+    "totalElevationGain": 2200,
+    "totalElevationLoss": 2200,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov",
+      "Dec–Feb"
+    ],
+    "permits": [
+      {
+        "name": "Langtang National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Sundarijal",
+    "endPoint": "Melamchi Pul",
+    "description": "The closest Himalayan trek to Kathmandu, passing through Tamang and Hyolmo villages with views of Langtang, Ganesh Himal, and Jugal ranges. A cultural immersion trek.",
+    "highlights": [
+      "Hyolmo village culture",
+      "Langtang & Ganesh Himal views",
+      "Close to Kathmandu",
+      "Rhododendron & oak forests"
+    ],
+    "icon": "forest",
+    "days": [
+      {
+        "day": 1,
+        "from": "Sundarijal",
+        "to": "Chisapani",
+        "fromAltitude": 1460,
+        "toAltitude": 2140,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek from Sundarijal through Shivapuri National Park, climbing to Chisapani for sunset views.",
+        "highlights": [
+          "Shivapuri National Park",
+          "Chisapani viewpoint"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Chisapani",
+        "to": "Kutumsang",
+        "fromAltitude": 2140,
+        "toAltitude": 2470,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Walk through rhododendron and oak forests with views of Langtang range.",
+        "highlights": [
+          "Pati Bhanjyang",
+          "Rhododendron forests"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Kutumsang",
+        "to": "Tharepati",
+        "fromAltitude": 2470,
+        "toAltitude": 3640,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Ascend through alpine forests to Tharepati pass, the highest point of the trek.",
+        "highlights": [
+          "Tharepati pass (3,640m)",
+          "Himalayan panorama"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Tharepati",
+        "to": "Tarkeghyang",
+        "fromAltitude": 3640,
+        "toAltitude": 2560,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Descend through forests to the Hyolmo village of Tarkeghyang with its ancient monastery.",
+        "highlights": [
+          "Tarkeghyang Gompa",
+          "Hyolmo culture"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Tarkeghyang",
+        "to": "Melamchi Pul",
+        "fromAltitude": 2560,
+        "toAltitude": 870,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Descend through Sermathang to Melamchi Pul Bazaar. Bus back to Kathmandu.",
+        "highlights": [
+          "Sermathang village",
+          "Melamchi valley"
+        ]
+      }
+    ],
+    "colorToken": "altitudeModerate"
+  },
+  {
+    "id": "khopra-danda",
+    "name": "Khopra Danda",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 3660,
+    "totalDistance": 48,
+    "totalElevationGain": 3100,
+    "totalElevationLoss": 3100,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "ACAP (Annapurna Conservation Area Permit)",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Tadapani",
+    "endPoint": "Ghandruk",
+    "description": "An off-the-beaten-path trek with stunning close-up views of Dhaulagiri, Annapurna South, and the sacred Khayer Lake. Far fewer crowds than Poon Hill.",
+    "highlights": [
+      "Khopra Danda viewpoint (3,660m)",
+      "Khayer Lake (4,500m) side trip",
+      "Dhaulagiri & Annapurna views",
+      "Community-run lodges"
+    ],
+    "icon": "binoculars",
+    "days": [
+      {
+        "day": 1,
+        "from": "Tadapani",
+        "to": "Bayeli Kharka",
+        "fromAltitude": 2630,
+        "toAltitude": 3420,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Trek from Tadapani through rhododendron forests along the ridge with mountain views.",
+        "highlights": [
+          "Rhododendron forests",
+          "Mountain panorama"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Bayeli Kharka",
+        "to": "Khopra Danda",
+        "fromAltitude": 3420,
+        "toAltitude": 3660,
+        "walkingHours": 4,
+        "distance": 7,
+        "isRestDay": false,
+        "description": "Continue along the ridge to Khopra Danda viewpoint with 360-degree mountain views.",
+        "highlights": [
+          "Khopra Danda viewpoint",
+          "Dhaulagiri views"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Khopra Danda",
+        "to": "Khopra Danda",
+        "fromAltitude": 3660,
+        "toAltitude": 3660,
+        "walkingHours": 6,
+        "distance": 10,
+        "isRestDay": true,
+        "description": "Optional side trip to sacred Khayer Lake (4,500m). Acclimatization and exploration day.",
+        "highlights": [
+          "Khayer Lake (4,500m)",
+          "Sacred Hindu lake"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Khopra Danda",
+        "to": "Swanta",
+        "fromAltitude": 3660,
+        "toAltitude": 2200,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Descend through forests and Magar villages to Swanta.",
+        "highlights": [
+          "Magar villages",
+          "Forest trails"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Swanta",
+        "to": "Ghandruk",
+        "fromAltitude": 2200,
+        "toAltitude": 1940,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Easy trek to Ghandruk. Explore the Gurung village before driving to Pokhara.",
+        "highlights": [
+          "Ghandruk village",
+          "Gurung culture"
+        ]
+      }
+    ],
+    "colorToken": "altitudeModerate"
+  },
+  {
+    "id": "tamang-heritage",
+    "name": "Tamang Heritage Trail",
+    "region": "Langtang",
+    "mapRegionId": "langtang-valley",
+    "difficulty": "Easy",
+    "maxAltitude": 3165,
+    "totalDistance": 50,
+    "totalElevationGain": 2600,
+    "totalElevationLoss": 2600,
+    "durationDays": 6,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Langtang National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Syabrubesi",
+    "endPoint": "Syabrubesi",
+    "description": "A cultural trek through traditional Tamang villages offering homestays, local cheese factories, ancient monasteries, and views of Langtang, Ganesh Himal, and Kerung peaks.",
+    "highlights": [
+      "Traditional Tamang homestays",
+      "Gatlang village — largest Tamang settlement",
+      "Tatopani hot springs",
+      "Langtang & Ganesh Himal views"
+    ],
+    "icon": "home-group",
+    "days": [
+      {
+        "day": 1,
+        "from": "Syabrubesi",
+        "to": "Gatlang",
+        "fromAltitude": 1550,
+        "toAltitude": 2290,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek from Syabrubesi through forests and terraced farmlands to Gatlang, one of the largest Tamang villages.",
+        "highlights": [
+          "Chilime hydropower dam",
+          "Gatlang village",
+          "Tamang culture"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Gatlang",
+        "to": "Tatopani",
+        "fromAltitude": 2290,
+        "toAltitude": 2600,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek through pine forests to Tatopani, known for its natural hot springs.",
+        "highlights": [
+          "Pine forests",
+          "Tatopani hot springs"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Tatopani",
+        "to": "Thuman",
+        "fromAltitude": 2600,
+        "toAltitude": 2060,
+        "walkingHours": 6,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Cross Nagthali viewpoint with panoramic Himalayan views, then descend to Thuman village.",
+        "highlights": [
+          "Nagthali viewpoint (3,165m)",
+          "Thuman monastery",
+          "Cheese factory"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Thuman",
+        "to": "Briddim",
+        "fromAltitude": 2060,
+        "toAltitude": 2230,
+        "walkingHours": 5,
+        "distance": 9,
+        "isRestDay": false,
+        "description": "Walk through Tamang settlements and forests to Briddim with views of Langtang Lirung.",
+        "highlights": [
+          "Langtang Lirung views",
+          "Briddim monastery"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Briddim",
+        "to": "Syabrubesi",
+        "fromAltitude": 2230,
+        "toAltitude": 1550,
+        "walkingHours": 4,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Descend back to Syabrubesi through forests and villages.",
+        "highlights": [
+          "Forest trails",
+          "Return to valley"
+        ]
+      }
+    ],
+    "colorToken": "altitudeLow"
+  },
+  {
+    "id": "panchase-trek",
+    "name": "Panchase Trek",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 2517,
+    "totalDistance": 28,
+    "totalElevationGain": 1400,
+    "totalElevationLoss": 1400,
+    "durationDays": 3,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "ACAP (Annapurna Conservation Area Permit)",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Kande",
+    "endPoint": "Kande",
+    "description": "A short trek near Pokhara to Panchase Hill, offering views of Annapurna, Dhaulagiri, Machhapuchhre, Manaslu, and Phewa Lake. A sunrise viewpoint rivaling Poon Hill with far fewer crowds.",
+    "highlights": [
+      "Panchase Peak sunrise (2,517m)",
+      "Views of 3 eight-thousanders",
+      "Phewa Lake panorama",
+      "Rhododendron forests"
+    ],
+    "icon": "weather-sunset-up",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kande",
+        "to": "Australian Camp",
+        "fromAltitude": 1770,
+        "toAltitude": 2060,
+        "walkingHours": 3,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Short ascent from Kande to Australian Camp with views of the Annapurna range and Pokhara valley.",
+        "highlights": [
+          "Australian Camp viewpoint",
+          "Pokhara valley views"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Australian Camp",
+        "to": "Panchase Bhanjyang",
+        "fromAltitude": 2060,
+        "toAltitude": 2400,
+        "walkingHours": 5,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Trek through rhododendron forests to Panchase Bhanjyang. Optional hike to Panchase Peak for sunset.",
+        "highlights": [
+          "Rhododendron forests",
+          "Mountain panorama"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Panchase Bhanjyang",
+        "to": "Kande",
+        "fromAltitude": 2400,
+        "toAltitude": 1770,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Early morning summit of Panchase Peak (2,517m) for sunrise, then descend back to Kande.",
+        "highlights": [
+          "Panchase Peak sunrise",
+          "Return descent"
+        ]
+      }
+    ],
+    "colorToken": "altitudeLow"
+  },
+  {
+    "id": "everest-panorama",
+    "name": "Everest Panorama",
+    "region": "Everest",
+    "mapRegionId": "everest-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 3880,
+    "totalDistance": 60,
+    "totalElevationGain": 2800,
+    "totalElevationLoss": 2800,
+    "durationDays": 7,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Sagarmatha National Park Entry Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "Khumbu Pasang Lhamu Rural Municipality Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Lukla",
+    "endPoint": "Lukla",
+    "description": "A shorter alternative to EBC that reaches Namche Bazaar and the Everest View Hotel (3,880m) for panoramic views of Everest, Lhotse, and Ama Dablam — without the grueling high-altitude days.",
+    "highlights": [
+      "Everest View Hotel (3,880m)",
+      "Namche Bazaar — Sherpa capital",
+      "Khumjung village & school",
+      "Tengboche Monastery"
+    ],
+    "icon": "eye",
+    "days": [
+      {
+        "day": 1,
+        "from": "Lukla",
+        "to": "Phakding",
+        "fromAltitude": 2860,
+        "toAltitude": 2610,
+        "walkingHours": 3,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Fly to Lukla and trek along the Dudh Koshi River to Phakding.",
+        "highlights": [
+          "Tenzing-Hillary Airport",
+          "Dudh Koshi valley"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Phakding",
+        "to": "Namche Bazaar",
+        "fromAltitude": 2610,
+        "toAltitude": 3440,
+        "walkingHours": 6,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Cross suspension bridges and climb to Namche Bazaar, the gateway to Everest.",
+        "highlights": [
+          "Hillary Suspension Bridge",
+          "First Everest view"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Namche Bazaar",
+        "to": "Namche Bazaar",
+        "fromAltitude": 3440,
+        "toAltitude": 3440,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": true,
+        "description": "Acclimatization day. Hike to Everest View Hotel (3,880m) and Khumjung village.",
+        "highlights": [
+          "Everest View Hotel (3,880m)",
+          "Khumjung Sherpa village"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Namche Bazaar",
+        "to": "Tengboche",
+        "fromAltitude": 3440,
+        "toAltitude": 3860,
+        "walkingHours": 5,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Trek through rhododendron forests to Tengboche Monastery with Ama Dablam views.",
+        "highlights": [
+          "Tengboche Monastery",
+          "Ama Dablam panorama"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Tengboche",
+        "to": "Namche Bazaar",
+        "fromAltitude": 3860,
+        "toAltitude": 3440,
+        "walkingHours": 4,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Return trek to Namche with different light and perspectives on the mountains.",
+        "highlights": [
+          "Mountain views",
+          "Namche market"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Namche Bazaar",
+        "to": "Lukla",
+        "fromAltitude": 3440,
+        "toAltitude": 2860,
+        "walkingHours": 7,
+        "distance": 19,
+        "isRestDay": false,
+        "description": "Long descent back to Lukla via Phakding.",
+        "highlights": [
+          "River valley views",
+          "Return to Lukla"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Lukla",
+        "to": "Lukla",
+        "fromAltitude": 2860,
+        "toAltitude": 2860,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": true,
+        "description": "Buffer day for weather delays. Fly back to Kathmandu.",
+        "highlights": [
+          "Flight to Kathmandu"
+        ]
+      }
+    ],
+    "colorToken": "altitudeHigh"
+  }
+]
