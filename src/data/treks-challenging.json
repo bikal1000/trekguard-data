@@ -1568,11 +1568,12 @@
       {
         "name": "Api Nampa Conservation Area Permit",
         "requiredForNepali": true,
-        "requiredForForeign": true
+        "requiredForForeign": true,
+        "note": "Nominal for Nepali citizens"
       },
       {
         "name": "TIMS Card",
-        "requiredForNepali": true,
+        "requiredForNepali": false,
         "requiredForForeign": true
       }
     ],
