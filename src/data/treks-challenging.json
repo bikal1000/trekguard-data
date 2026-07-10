@@ -1,5 +1,221 @@
 [
   {
+    "id": "api-himal-bc",
+    "name": "Api Himal Base Camp",
+    "region": "Api Saipal Himal",
+    "mapRegionId": "far-west",
+    "difficulty": "Challenging",
+    "maxAltitude": 4200,
+    "totalDistance": 96,
+    "totalElevationGain": 2900,
+    "totalElevationLoss": 2900,
+    "durationDays": 12,
+    "bestSeasons": [
+      "Mar–May",
+      "Oct–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Api Nampa Conservation Area Permit",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": true,
+        "requiredForForeign": true
+      }
+    ],
+    "startPoint": "Kathmandu",
+    "endPoint": "Kathmandu",
+    "description": "Remote far-west trek to the base of Mount Api (7,132m) through untouched alpine wilderness. Less commercialized than major routes, offering authentic solitude with dramatic mountain views.",
+    "highlights": [
+      "Api Base Camp (4,100m)",
+      "Kalidhunga sacred lake (4,200m)",
+      "Mount Api (7,132m) views",
+      "Remote Magar & Chhetri villages",
+      "Alpine meadows & glacial streams"
+    ],
+    "icon": "mountain",
+    "days": [
+      {
+        "day": 1,
+        "from": "Kathmandu",
+        "to": "Kathmandu",
+        "fromAltitude": 1400,
+        "toAltitude": 1400,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Trek briefing and permit confirmation. Prepare gear and meet the team.",
+        "highlights": [
+          "Trek preparation",
+          "Permit processing"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Kathmandu",
+        "to": "Makarigadh",
+        "fromAltitude": 1400,
+        "toAltitude": 1300,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Fly to Dhangadhi in the far-west, then drive 6–7 hours to Makarigadh through the Terai plains and foothills.",
+        "highlights": [
+          "Scenic flight to far-west",
+          "Terai landscape"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Makarigadh",
+        "to": "Naupata",
+        "fromAltitude": 1300,
+        "toAltitude": 1800,
+        "walkingHours": 7,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Trek through forest and farmland trails with river crossings. Enter the Api Saipal Himal zone.",
+        "highlights": [
+          "River crossings",
+          "Traditional villages"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Naupata",
+        "to": "Siti Gaun",
+        "fromAltitude": 1800,
+        "toAltitude": 2400,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "Ascend through Saipal Himal zone with improving mountain views. Pass through remote Magar and Chhetri settlements.",
+        "highlights": [
+          "Saipal Himal views",
+          "Cultural immersion"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Siti Gaun",
+        "to": "Dhauliodhar",
+        "fromAltitude": 2400,
+        "toAltitude": 3200,
+        "walkingHours": 7,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Demanding climb through alpine meadows. The landscape transitions from forest to open high-altitude terrain.",
+        "highlights": [
+          "Alpine meadows",
+          "Altitude gain"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Dhauliodhar",
+        "to": "Api Base Camp",
+        "fromAltitude": 3200,
+        "toAltitude": 4100,
+        "walkingHours": 7,
+        "distance": 10,
+        "isRestDay": false,
+        "description": "The crown jewel day. Trek through moraine terrain to Api Base Camp with stunning views of Mount Api (7,132m).",
+        "highlights": [
+          "Api Base Camp (4,100m)",
+          "Mount Api close-up",
+          "Glacial moraine"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Api Base Camp",
+        "to": "Dhauliodhar",
+        "fromAltitude": 4100,
+        "toAltitude": 3200,
+        "walkingHours": 8,
+        "distance": 13,
+        "isRestDay": false,
+        "description": "Side trip to sacred Kalidhunga Lake (4,200m) before descending. The lake is revered by locals and offers spectacular reflections.",
+        "highlights": [
+          "Kalidhunga Lake (4,200m)",
+          "Sacred pilgrimage site",
+          "Mountain reflections"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Dhauliodhar",
+        "to": "Ghusa Gaun",
+        "fromAltitude": 3200,
+        "toAltitude": 2000,
+        "walkingHours": 6,
+        "distance": 12,
+        "isRestDay": false,
+        "description": "Long descent through forests and grasslands to Ghusa Gaun. Re-enter the tree line.",
+        "highlights": [
+          "Forest descent",
+          "Ghusa village"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Ghusa Gaun",
+        "to": "Naupata",
+        "fromAltitude": 2000,
+        "toAltitude": 1800,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Gentle descent through rural villages. Experience local life and hospitality in traditional settlements.",
+        "highlights": [
+          "Rural village experience",
+          "Local culture"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Naupata",
+        "to": "Attariya",
+        "fromAltitude": 1800,
+        "toAltitude": 150,
+        "walkingHours": 8,
+        "distance": 21,
+        "isRestDay": false,
+        "description": "Longest trekking day. Descend from mountains to the Terai plains, experiencing a dramatic landscape shift.",
+        "highlights": [
+          "Mountain to plains transition",
+          "Longest day"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Attariya",
+        "to": "Kathmandu",
+        "fromAltitude": 150,
+        "toAltitude": 1400,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive to Dhangadhi and fly back to Kathmandu. Celebrate trek completion."
+      },
+      {
+        "day": 12,
+        "from": "Kathmandu",
+        "to": "Kathmandu",
+        "fromAltitude": 1400,
+        "toAltitude": 1400,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Departure day or extension options. Buffer for flight delays from far-west region."
+      }
+    ],
+    "colorToken": "altitudeModerate"
+  },
+  {
     "id": "ebc-classic",
     "name": "Everest Base Camp",
     "region": "Everest",

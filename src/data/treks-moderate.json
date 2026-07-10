@@ -1,5 +1,117 @@
 [
   {
+    "id": "annapurna-north-bc",
+    "name": "Annapurna North Base Camp",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Moderate",
+    "maxAltitude": 4190,
+    "totalDistance": 23,
+    "totalElevationGain": 3000,
+    "totalElevationLoss": 3000,
+    "durationDays": 5,
+    "bestSeasons": [
+      "Mar–May",
+      "Aug–Nov"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      }
+    ],
+    "startPoint": "Pokhara",
+    "endPoint": "Pokhara",
+    "description": "A short camping trek following Maurice Herzog's historic 1950 route to the first 8,000m summit. Less crowded alternative with views of Annapurna I, Machhapuchhre, Nilgiri, and Tilicho.",
+    "highlights": [
+      "Maurice Herzog's 1950 route",
+      "North Annapurna Base Camp (4,190m)",
+      "Panchakunda Lake",
+      "Tatopani hot springs",
+      "Rhododendron forests"
+    ],
+    "icon": "hiking",
+    "days": [
+      {
+        "day": 1,
+        "from": "Pokhara",
+        "to": "Humkhola",
+        "fromAltitude": 822,
+        "toAltitude": 2890,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive from Pokhara to Humkhola (6–7 hours, 115 km) — the trek gateway. Pass through scenic valleys and traditional villages.",
+        "highlights": [
+          "Scenic mountain drive",
+          "Trek preparation"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Humkhola",
+        "to": "Busket Mela",
+        "fromAltitude": 2890,
+        "toAltitude": 3650,
+        "walkingHours": 6,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Trek through rhododendron forests and alpine meadows. Pass Futu waterfall and Ghupaphant viewpoint with mountain panoramas.",
+        "highlights": [
+          "Rhododendron forests",
+          "Futu waterfall",
+          "Ghupaphant viewpoint"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Busket Mela",
+        "to": "High Camp",
+        "fromAltitude": 3650,
+        "toAltitude": 4050,
+        "walkingHours": 4,
+        "distance": 6,
+        "isRestDay": false,
+        "description": "Ascend rocky terrain along Sunkhola river. Alpine scenery intensifies with waterfalls and glacial streams. Camp at High Camp.",
+        "highlights": [
+          "Sunkhola river valley",
+          "Alpine scenery",
+          "Waterfall views"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "High Camp",
+        "to": "Tatopani",
+        "fromAltitude": 4050,
+        "toAltitude": 1190,
+        "walkingHours": 11,
+        "distance": 11,
+        "isRestDay": false,
+        "description": "Summit push to North Annapurna Base Camp (4,190m) with stunning views of Nilgiri and Tilicho. Long descent through forests to Tatopani hot springs.",
+        "highlights": [
+          "North Annapurna BC (4,190m)",
+          "Nilgiri & Tilicho views",
+          "Tatopani hot springs"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Tatopani",
+        "to": "Pokhara",
+        "fromAltitude": 1190,
+        "toAltitude": 822,
+        "walkingHours": 0,
+        "distance": 0,
+        "isRestDay": false,
+        "description": "Drive back to Pokhara (4 hours, 102 km). Relax by Fewa Lake and celebrate trek completion."
+      }
+    ],
+    "colorToken": "altitudeModerate"
+  },
+  {
     "id": "abc-trek",
     "name": "Annapurna Base Camp",
     "region": "Annapurna",
