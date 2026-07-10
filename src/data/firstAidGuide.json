@@ -1,0 +1,366 @@
+[
+    {
+        "id": "ams",
+        "name": "Acute Mountain Sickness (AMS)",
+        "category": "altitude",
+        "severity": "moderate",
+        "symptoms": [
+            "Headache that worsens with activity",
+            "Nausea or vomiting",
+            "Dizziness or lightheadedness",
+            "Fatigue and weakness",
+            "Difficulty sleeping",
+            "Loss of appetite"
+        ],
+        "treatment": [
+            "Stop ascending immediately",
+            "Rest at current altitude for 1-2 days",
+            "Stay hydrated (3-4 liters/day)",
+            "Take Ibuprofen or Paracetamol for headache",
+            "Consider Diamox (Acetazolamide) if available",
+            "If symptoms worsen: DESCEND at least 500-1000m"
+        ],
+        "prevention": [
+            "Ascend gradually (max 500m/day above 3000m)",
+            "Take rest days every 3-4 days",
+            "Stay well hydrated",
+            "Avoid alcohol and sleeping pills",
+            "Consider prophylactic Diamox"
+        ],
+        "warning": "If symptoms persist or worsen after 24 hours of rest, descend immediately. AMS can progress to life-threatening HACE or HAPE."
+    },
+    {
+        "id": "hace",
+        "name": "High Altitude Cerebral Edema (HACE)",
+        "category": "altitude",
+        "severity": "severe",
+        "symptoms": [
+            "Severe headache unrelieved by medication",
+            "Confusion or disorientation",
+            "Ataxia (difficulty walking straight)",
+            "Loss of coordination",
+            "Altered consciousness",
+            "Hallucinations"
+        ],
+        "treatment": [
+            "⚠️ IMMEDIATE DESCENT - This is life-threatening!",
+            "Descend at least 1000m immediately",
+            "Administer Dexamethasone 8mg initially, then 4mg every 6 hours",
+            "Use supplemental oxygen if available",
+            "Keep patient warm and hydrated",
+            "Call for helicopter evacuation if descent is not possible"
+        ],
+        "prevention": [
+            "Recognize and treat AMS early",
+            "Never continue ascending with symptoms",
+            "Proper acclimatization schedule"
+        ],
+        "warning": "HACE is a MEDICAL EMERGENCY. Death can occur within 24 hours without treatment. Descend immediately, even at night."
+    },
+    {
+        "id": "hape",
+        "name": "High Altitude Pulmonary Edema (HAPE)",
+        "category": "altitude",
+        "severity": "severe",
+        "symptoms": [
+            "Shortness of breath at rest",
+            "Persistent dry cough, may become wet",
+            "Pink or bloody frothy sputum",
+            "Extreme fatigue when walking",
+            "Chest tightness or congestion",
+            "Gurgling or rattling breath sounds",
+            "Blue lips or fingernails (cyanosis)"
+        ],
+        "treatment": [
+            "⚠️ IMMEDIATE DESCENT - This is life-threatening!",
+            "Descend at least 1000m immediately",
+            "Give Nifedipine 30mg slow-release if available",
+            "Supplemental oxygen at 4-6 L/min",
+            "Keep patient sitting upright",
+            "Minimize exertion during descent"
+        ],
+        "prevention": [
+            "Gradual ascent profile",
+            "Avoid overexertion at altitude",
+            "Stay well hydrated",
+            "Consider Nifedipine prophylaxis if susceptible"
+        ],
+        "warning": "HAPE kills more trekkers than any other altitude illness. Do NOT delay descent. Condition worsens rapidly."
+    },
+    {
+        "id": "blisters",
+        "name": "Blisters",
+        "category": "injuries",
+        "severity": "mild",
+        "symptoms": [
+            "Hot spot or rubbing sensation (early warning)",
+            "Fluid-filled bubble on skin",
+            "Redness and tenderness",
+            "Pain when walking"
+        ],
+        "treatment": [
+            "Clean the area with antiseptic",
+            "Do NOT pop small blisters - they heal faster intact",
+            "For large/painful blisters: sterilize needle, drain fluid from edge, keep skin intact as a natural bandage",
+            "Apply antibiotic ointment",
+            "Cover with moleskin donut or blister-specific bandage (Compeed)",
+            "Change dressing daily and keep clean"
+        ],
+        "prevention": [
+            "🔑 TAPING: Apply Leukotape P or KT Tape to hotspots BEFORE blisters form",
+            "⚠️ Duct tape works in emergencies but can irritate skin - use as last resort",
+            "Wear well-fitted, broken-in boots (never trek in new boots)",
+            "Use moisture-wicking liner socks under wool hiking socks",
+            "Apply foot powder or anti-chafe balm (Body Glide) to problem areas",
+            "Keep feet dry - change socks at lunch if sweaty",
+            "Lace boots snugly downhill to prevent toe blisters"
+        ]
+    },
+    {
+        "id": "knee_pain",
+        "name": "Trekker's Knee",
+        "category": "injuries",
+        "severity": "moderate",
+        "symptoms": [
+            "Pain around or behind the kneecap",
+            "Pain worsens on downhill sections",
+            "Stiffness after rest",
+            "Swelling around the knee",
+            "Grinding or clicking sensation"
+        ],
+        "treatment": [
+            "Rest: Stop and elevate the leg for 15-20 minutes",
+            "Ice: Apply cold pack or cold stream water for 15 min",
+            "Compression: Use elastic bandage or knee brace",
+            "Take anti-inflammatory (Ibuprofen 400mg)",
+            "Use trekking poles to offload 20-30% of knee stress",
+            "Shorten your stride on descents",
+            "If severe, consider turning back or arranging transport"
+        ],
+        "prevention": [
+            "🔑 POLES: Use trekking poles on ALL descents - reduces knee stress by 25%",
+            "🔑 TECHNIQUE: Take small, controlled steps downhill - never rush",
+            "Strengthen quads and hamstrings before your trek",
+            "Warm up with gentle stretches each morning",
+            "Reduce pack weight as much as possible",
+            "Wear supportive boots with good cushioning",
+            "Consider knee braces or compression sleeves if prone to issues"
+        ],
+        "warning": "Continuing to trek on a painful knee can cause long-term damage. Listen to your body and descend if pain is severe."
+    },
+    {
+        "id": "sprain",
+        "name": "Ankle Sprain",
+        "category": "injuries",
+        "severity": "moderate",
+        "symptoms": [
+            "Pain and tenderness around ankle",
+            "Swelling",
+            "Bruising",
+            "Difficulty bearing weight",
+            "Limited range of motion"
+        ],
+        "treatment": [
+            "Follow RICE: Rest, Ice, Compression, Elevation",
+            "Apply cold compress for 15-20 min every 2-3 hours",
+            "Wrap with elastic bandage (not too tight)",
+            "Keep elevated when resting",
+            "Take anti-inflammatory medication (Ibuprofen)",
+            "Use trekking poles for support"
+        ],
+        "prevention": [
+            "Use trekking poles on uneven terrain",
+            "Wear ankle-supporting boots",
+            "Watch your footing on loose rocks",
+            "Strengthen ankles before trek"
+        ]
+    },
+    {
+        "id": "fracture",
+        "name": "Suspected Fracture",
+        "category": "injuries",
+        "severity": "severe",
+        "symptoms": [
+            "Severe pain at injury site",
+            "Visible deformity or abnormal angle",
+            "Swelling and bruising",
+            "Inability to move the limb",
+            "Grinding sensation when moved"
+        ],
+        "treatment": [
+            "Do NOT attempt to realign the bone",
+            "Immobilize the limb using splint (trekking poles, sticks)",
+            "Pad splint with clothing",
+            "Apply ice if available",
+            "Give pain medication",
+            "Call for evacuation - do not walk on leg fractures"
+        ],
+        "prevention": [
+            "Use trekking poles",
+            "Take care on slippery or loose surfaces",
+            "Avoid rushing on descents"
+        ],
+        "warning": "If bone is protruding (open fracture), cover with sterile dressing, do NOT push back in. Seek immediate evacuation."
+    },
+    {
+        "id": "hypothermia",
+        "name": "Hypothermia",
+        "category": "environmental",
+        "severity": "severe",
+        "symptoms": [
+            "Uncontrollable shivering (early stage)",
+            "Slurred speech",
+            "Confusion and poor judgment",
+            "Drowsiness and fatigue",
+            "Loss of coordination",
+            "Shivering stops in severe cases"
+        ],
+        "treatment": [
+            "Move to shelter immediately",
+            "Remove wet clothing",
+            "Warm the core first (chest, neck, head, groin)",
+            "Use body-to-body contact in sleeping bag",
+            "Give warm sweet drinks if conscious",
+            "Do NOT rub limbs or give alcohol",
+            "Handle gently - heart is sensitive"
+        ],
+        "prevention": [
+            "Dress in layers",
+            "Stay dry - change wet clothes immediately",
+            "Eat and drink regularly",
+            "Recognize early signs"
+        ],
+        "warning": "Severe hypothermia can cause heart arrhythmia. Handle patient very gently. Evacuate immediately."
+    },
+    {
+        "id": "frostbite",
+        "name": "Frostbite",
+        "category": "environmental",
+        "severity": "severe",
+        "symptoms": [
+            "Numbness in fingers, toes, ears, nose",
+            "Skin appears white, waxy, or grayish",
+            "Skin feels hard and wooden",
+            "Blisters may form after rewarming"
+        ],
+        "treatment": [
+            "Get to shelter - do NOT thaw if refreezing is possible",
+            "Remove jewelry and constrictive clothing",
+            "Rewarm in warm water (37-39°C) for 30-60 min",
+            "Do NOT rub or massage affected area",
+            "Give pain medication - thawing is painful",
+            "Bandage loosely with sterile dressing",
+            "Separate affected fingers/toes with gauze"
+        ],
+        "prevention": [
+            "Keep extremities dry and covered",
+            "Wear mittens (warmer than gloves)",
+            "Move fingers and toes regularly",
+            "Avoid tight boots that restrict circulation"
+        ],
+        "warning": "Never walk on frostbitten feet. Once thawed, tissue is extremely fragile and must not freeze again."
+    },
+    {
+        "id": "sunburn",
+        "name": "Severe Sunburn / Snow Blindness",
+        "category": "environmental",
+        "severity": "moderate",
+        "symptoms": [
+            "Red, painful skin",
+            "Blistering in severe cases",
+            "Snow blindness: gritty feeling, tearing, light sensitivity",
+            "Temporary vision loss"
+        ],
+        "treatment": [
+            "Get out of sun immediately",
+            "Apply cool compresses to burned areas",
+            "Apply aloe vera or moisturizing lotion",
+            "Take pain relievers",
+            "For snow blindness: rest in dark room, cold compresses on eyes",
+            "Do NOT pop blisters"
+        ],
+        "prevention": [
+            "Wear SPF 50+ sunscreen, reapply every 2 hours",
+            "Wear UV-blocking sunglasses or goggles",
+            "Cover exposed skin",
+            "UV is stronger at altitude!"
+        ]
+    },
+    {
+        "id": "dehydration",
+        "name": "Dehydration",
+        "category": "environmental",
+        "severity": "moderate",
+        "symptoms": [
+            "Dark yellow urine",
+            "Thirst and dry mouth",
+            "Headache",
+            "Fatigue and dizziness",
+            "Reduced urination",
+            "Muscle cramps"
+        ],
+        "treatment": [
+            "Rest in shade",
+            "Sip water slowly (not gulp)",
+            "Add oral rehydration salts if available",
+            "Eat salty snacks",
+            "Avoid caffeine and alcohol"
+        ],
+        "prevention": [
+            "Drink 3-4 liters per day at altitude",
+            "Monitor urine color (should be light yellow)",
+            "Set reminders to drink regularly",
+            "Start hydrating before you feel thirsty"
+        ]
+    },
+    {
+        "id": "diarrhea",
+        "name": "Traveler's Diarrhea",
+        "category": "medical",
+        "severity": "mild",
+        "symptoms": [
+            "Frequent loose stools",
+            "Abdominal cramps",
+            "Nausea",
+            "Urgency",
+            "Possibly fever"
+        ],
+        "treatment": [
+            "Stay hydrated with oral rehydration salts",
+            "Eat bland foods (rice, bananas, toast)",
+            "Take Loperamide for symptom relief if needed",
+            "Consider antibiotics (Ciprofloxacin) if severe",
+            "Rest until symptoms improve"
+        ],
+        "prevention": [
+            "Drink only purified or bottled water",
+            "Avoid raw vegetables and unpeeled fruits",
+            "Wash hands frequently",
+            "Be cautious with street food"
+        ]
+    },
+    {
+        "id": "wound",
+        "name": "Cuts and Wounds",
+        "category": "medical",
+        "severity": "mild",
+        "symptoms": [
+            "Bleeding",
+            "Pain at wound site",
+            "Possible debris in wound"
+        ],
+        "treatment": [
+            "Apply direct pressure to stop bleeding",
+            "Clean with clean water or antiseptic",
+            "Remove visible debris with tweezers",
+            "Apply antibiotic ointment",
+            "Cover with sterile bandage",
+            "Change dressing daily and monitor for infection"
+        ],
+        "prevention": [
+            "Wear gloves when handling sharp equipment",
+            "Be careful with knives and tools"
+        ],
+        "warning": "Signs of infection: increasing redness, swelling, warmth, pus, red streaks, fever. Seek medical help if present."
+    }
+]

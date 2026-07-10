@@ -1,0 +1,187 @@
+[
+    {
+        "id": "police",
+        "name": "Nepal Police",
+        "phone": "100",
+        "category": "emergency",
+        "description": "General emergency line",
+        "is24Hours": true
+    },
+    {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "phone": "102",
+        "category": "emergency",
+        "description": "Medical emergency",
+        "is24Hours": true
+    },
+    {
+        "id": "tourist-police",
+        "name": "Tourist Police",
+        "phone": "1144",
+        "category": "emergency",
+        "description": "Tourist assistance and safety",
+        "is24Hours": true
+    },
+    {
+        "id": "fire",
+        "name": "Fire Department",
+        "phone": "101",
+        "category": "emergency",
+        "description": "Fire emergency",
+        "is24Hours": true
+    },
+    {
+        "id": "simrik-air",
+        "name": "Simrik Air",
+        "phone": "+977-1-4155341",
+        "category": "helicopter",
+        "description": "Helicopter rescue service - 24/7 availability",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "fishtail-air",
+        "name": "Fishtail Air",
+        "phone": "+977-1-4111815",
+        "category": "helicopter",
+        "description": "Helicopter rescue and medical evacuation",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "altitude-air",
+        "name": "Altitude Air",
+        "phone": "+977-1-4116665",
+        "category": "helicopter",
+        "description": "High altitude rescue specialists",
+        "is24Hours": true,
+        "region": "Everest, Annapurna"
+    },
+    {
+        "id": "manang-air",
+        "name": "Manang Air",
+        "phone": "+977-1-4115986",
+        "category": "helicopter",
+        "description": "Mountain rescue operations",
+        "is24Hours": true,
+        "region": "Annapurna, Manang"
+    },
+    {
+        "id": "heli-everest",
+        "name": "Heli Everest",
+        "phone": "+977-1-4112353",
+        "category": "helicopter",
+        "description": "Everest region rescue specialists",
+        "is24Hours": true,
+        "region": "Everest"
+    },
+    {
+        "id": "air-dynasty",
+        "name": "Air Dynasty",
+        "phone": "+977-9801112358",
+        "category": "helicopter",
+        "description": "Charter and rescue services",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "mountain-helicopters",
+        "name": "Mountain Helicopters",
+        "phone": "+977-1-4111031",
+        "category": "helicopter",
+        "description": "High altitude rescue operations",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "shree-airlines-heli",
+        "name": "Shree Airlines Helicopter",
+        "phone": "+977-1-4598200",
+        "category": "helicopter",
+        "description": "Helicopter rescue service",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "kailash-helicopter",
+        "name": "Kailash Helicopter",
+        "phone": "+977-9801908301",
+        "category": "helicopter",
+        "description": "Mountain rescue and evacuation",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "prabhu-helicopter",
+        "name": "Prabhu Helicopter",
+        "phone": "+977-1-4169308",
+        "category": "helicopter",
+        "description": "Rescue and charter services",
+        "is24Hours": true,
+        "region": "All Nepal"
+    },
+    {
+        "id": "us-embassy",
+        "name": "US Embassy Kathmandu",
+        "phone": "+977-1-4234000",
+        "category": "embassy",
+        "description": "United States Embassy - Emergency consular services",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 8:00-17:00, Emergency line 24/7"
+    },
+    {
+        "id": "uk-embassy",
+        "name": "UK Embassy Kathmandu",
+        "phone": "+977-1-4237100",
+        "category": "embassy",
+        "description": "British Embassy - Consular assistance",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 8:30-17:00"
+    },
+    {
+        "id": "india-embassy",
+        "name": "Indian Embassy Kathmandu",
+        "phone": "+977-1-4410900",
+        "category": "embassy",
+        "description": "Embassy of India",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 9:00-17:30"
+    },
+    {
+        "id": "china-embassy",
+        "name": "Chinese Embassy Kathmandu",
+        "phone": "+977-1-4434792",
+        "category": "embassy",
+        "description": "Embassy of the People's Republic of China",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 9:00-12:00, 15:00-17:00"
+    },
+    {
+        "id": "australia-embassy",
+        "name": "Australian Embassy Kathmandu",
+        "phone": "+977-1-4371678",
+        "category": "embassy",
+        "description": "Australian Embassy",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 8:30-17:00"
+    },
+    {
+        "id": "germany-embassy",
+        "name": "German Embassy Kathmandu",
+        "phone": "+977-1-4412786",
+        "category": "embassy",
+        "description": "Embassy of the Federal Republic of Germany",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 9:00-12:00"
+    },
+    {
+        "id": "france-embassy",
+        "name": "French Embassy Kathmandu",
+        "phone": "+977-1-4412332",
+        "category": "embassy",
+        "description": "Embassy of France",
+        "is24Hours": false,
+        "operatingHours": "Mon-Fri 9:00-12:30, 13:30-17:00"
+    }
+]

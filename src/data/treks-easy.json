@@ -1085,5 +1085,95 @@
       }
     ],
     "colorToken": "altitudeHigh"
+  },
+  {
+    "id": "muldai-view-point",
+    "name": "Muldai View Point",
+    "region": "Annapurna",
+    "mapRegionId": "annapurna-base-camp",
+    "difficulty": "Easy",
+    "maxAltitude": 3637,
+    "totalDistance": 40,
+    "totalElevationGain": 2600,
+    "totalElevationLoss": 2700,
+    "durationDays": 3,
+    "bestSeasons": [
+      "Mar–May",
+      "Sep–Dec"
+    ],
+    "permits": [
+      {
+        "name": "Annapurna Conservation Area Permit (ACAP)",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Free for Nepali citizens"
+      },
+      {
+        "name": "TIMS Card",
+        "requiredForNepali": false,
+        "requiredForForeign": true,
+        "note": "Verify current TIMS rules for Annapurna before travel"
+      }
+    ],
+    "startPoint": "Banthati",
+    "endPoint": "Ghandruk",
+    "description": "Muldai (Mulde) View Point the way you walked it: jeep from Pokhara to Banthati, Ghorepani on night one, Poon Hill then Dobato via Deurali and Dharmadanda, then Mulde viewpoint and down to Ghandruk through Tadapani.",
+    "highlights": [
+      "Poon Hill sunrise (3,210m)",
+      "Muldai / Mulde viewpoint (3,637m)",
+      "Trail Ghorepani–Dobato via Deurali & Dharmadanda",
+      "Ghorepani, Dobato, Tadapani & Ghandruk"
+    ],
+    "icon": "image-filter-hdr",
+    "days": [
+      {
+        "day": 1,
+        "from": "Banthati",
+        "to": "Ghorepani",
+        "fromAltitude": 2180,
+        "toAltitude": 2860,
+        "walkingHours": 5,
+        "distance": 8,
+        "isRestDay": false,
+        "description": "Jeep from Pokhara to Banthati, then trek up to Ghorepani — rhododendron and oak forest, stone steps in places.",
+        "highlights": [
+          "Roadhead at Banthati",
+          "First views toward Annapurna South & Dhaulagiri"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Ghorepani",
+        "to": "Dobato",
+        "fromAltitude": 2860,
+        "toAltitude": 3420,
+        "walkingHours": 8,
+        "distance": 14,
+        "isRestDay": false,
+        "description": "Pre-dawn climb to Poon Hill (3,210m) for sunrise, then back to Ghorepani for breakfast. Continue toward Dobato over the ridge via Deurali and Dharmadanda — quieter forest before the open slopes at Dobato.",
+        "highlights": [
+          "Poon Hill panorama (3,210m)",
+          "Deurali & Dharmadanda",
+          "Dobato lodges"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Dobato",
+        "to": "Ghandruk",
+        "fromAltitude": 3420,
+        "toAltitude": 1940,
+        "walkingHours": 9,
+        "distance": 18,
+        "isRestDay": false,
+        "description": "Early climb to Muldai / Mulde View Point (3,637m) — wide views over Annapurna, Fishtail, and Dhaulagiri. Descend through forest to Tadapani, then on to Ghandruk for the night.",
+        "highlights": [
+          "Muldai / Mulde summit (3,637m)",
+          "Tadapani ridge forest",
+          "Ghandruk Gurung village"
+        ]
+      }
+    ],
+    "colorToken": "success"
   }
 ]
